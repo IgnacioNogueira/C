@@ -1,0 +1,139 @@
+# depslib dependency file v1.0
+1622723743 source:c:\users\nahuel\desktop\prog_c1_parcial_1_entregable\main.c
+	"main.h"
+
+1622663226 c:\users\nahuel\desktop\prog_c1_parcial_1_entregable\main.h
+	<stdio.h>
+	"funciones.h"
+	"que_hice.h"
+	<stdlib.h>
+	<string.h>
+
+1622673100 c:\users\nahuel\desktop\prog_c1_parcial_1_entregable\funciones.h
+	<stdio.h>
+	"que_hice.h"
+	"tda_definiciones.h"
+
+1622771104 c:\users\nahuel\desktop\prog_c1_parcial_1_entregable\que_hice.h
+
+1622643290 c:\users\nahuel\desktop\prog_c1_parcial_1_entregable\tda_definiciones.h
+
+1622771705 source:c:\users\nahuel\desktop\prog_c1_parcial_1_entregable\funciones.c
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1622709342 source:c:\users\ignac\desktop\prog_c1_parcial_1_entregable-20210607t173400z-001\prog_c1_parcial_1_entregable\main.c
+	"main.h"
+
+1622648826 c:\users\ignac\desktop\prog_c1_parcial_1_entregable-20210607t173400z-001\prog_c1_parcial_1_entregable\main.h
+	<stdio.h>
+	"funciones.h"
+	"que_hice.h"
+	<stdlib.h>
+	<string.h>
+
+1622658700 c:\users\ignac\desktop\prog_c1_parcial_1_entregable-20210607t173400z-001\prog_c1_parcial_1_entregable\funciones.h
+	<stdio.h>
+	"que_hice.h"
+	"tda_definiciones.h"
+
+1622756704 c:\users\ignac\desktop\prog_c1_parcial_1_entregable-20210607t173400z-001\prog_c1_parcial_1_entregable\que_hice.h
+
+1622628890 c:\users\ignac\desktop\prog_c1_parcial_1_entregable-20210607t173400z-001\prog_c1_parcial_1_entregable\tda_definiciones.h
+
+1623356391 source:c:\users\ignac\desktop\prog_c1_parcial_1_entregable-20210607t173400z-001\prog_c1_parcial_1_entregable\funciones.c
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	"funciones.h"
+
+1622709342 source:c:\users\ignac\desktop\cosas para parcial progra\parciales y tps\prog_c1_parcial_1_entregable-20210607t173400z-001\prog_c1_parcial_1_entregable\main.c
+	"main.h"
+
+1622648826 c:\users\ignac\desktop\cosas para parcial progra\parciales y tps\prog_c1_parcial_1_entregable-20210607t173400z-001\prog_c1_parcial_1_entregable\main.h
+	<stdio.h>
+	"funciones.h"
+	"que_hice.h"
+	<stdlib.h>
+	<string.h>
+
+1622658700 c:\users\ignac\desktop\cosas para parcial progra\parciales y tps\prog_c1_parcial_1_entregable-20210607t173400z-001\prog_c1_parcial_1_entregable\funciones.h
+	<stdio.h>
+	"que_hice.h"
+	"tda_definiciones.h"
+
+1622756704 c:\users\ignac\desktop\cosas para parcial progra\parciales y tps\prog_c1_parcial_1_entregable-20210607t173400z-001\prog_c1_parcial_1_entregable\que_hice.h
+
+1622628890 c:\users\ignac\desktop\cosas para parcial progra\parciales y tps\prog_c1_parcial_1_entregable-20210607t173400z-001\prog_c1_parcial_1_entregable\tda_definiciones.h
+
+1633310647 source:c:\users\ignac\desktop\copia parcial nahue\prog_c1_parcial_1_entregable\main.c
+	"main.h"
+
+1622648826 c:\users\ignac\desktop\copia parcial nahue\prog_c1_parcial_1_entregable\main.h
+	<stdio.h>
+	"funciones.h"
+	"que_hice.h"
+	<stdlib.h>
+	<string.h>
+
+1633571078 c:\users\ignac\desktop\copia parcial nahue\prog_c1_parcial_1_entregable\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pila.h"
+	"que_hice.h"
+	"tda_definiciones.h"
+
+1653078481 c:\users\ignac\desktop\copia parcial nahue\prog_c1_parcial_1_entregable\que_hice.h
+
+1633482367 c:\users\ignac\desktop\copia parcial nahue\prog_c1_parcial_1_entregable\tda_definiciones.h
+
+1653074286 source:c:\users\ignac\desktop\copia parcial nahue\prog_c1_parcial_1_entregable\funciones.c
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	"funciones.h"
+
+1633481165 c:\users\ignac\desktop\copia parcial nahue\prog_c1_parcial_1_entregable\pila.h
+	"funciones.h"
+
+1633481198 source:c:\users\ignac\desktop\copia parcial nahue\prog_c1_parcial_1_entregable\pila.c
+	"pila.h"
+	"funciones.h"
+
+1633310647 source:c:\users\ignac\desktop\cosas para parcial progra\parciales y tps\copia parcial nahue\prog_c1_parcial_1_entregable\main.c
+	"main.h"
+
+1622648826 c:\users\ignac\desktop\cosas para parcial progra\parciales y tps\copia parcial nahue\prog_c1_parcial_1_entregable\main.h
+	<stdio.h>
+	"funciones.h"
+	"que_hice.h"
+	<stdlib.h>
+	<string.h>
+
+1633571078 c:\users\ignac\desktop\cosas para parcial progra\parciales y tps\copia parcial nahue\prog_c1_parcial_1_entregable\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pila.h"
+	"que_hice.h"
+	"tda_definiciones.h"
+
+1633481165 c:\users\ignac\desktop\cosas para parcial progra\parciales y tps\copia parcial nahue\prog_c1_parcial_1_entregable\pila.h
+	"funciones.h"
+
+1622756704 c:\users\ignac\desktop\cosas para parcial progra\parciales y tps\copia parcial nahue\prog_c1_parcial_1_entregable\que_hice.h
+
+1633482367 c:\users\ignac\desktop\cosas para parcial progra\parciales y tps\copia parcial nahue\prog_c1_parcial_1_entregable\tda_definiciones.h
+
+1633481198 source:c:\users\ignac\desktop\cosas para parcial progra\parciales y tps\copia parcial nahue\prog_c1_parcial_1_entregable\pila.c
+	"pila.h"
+	"funciones.h"
+
+1634700272 source:c:\users\ignac\desktop\cosas para parcial progra\parciales y tps\copia parcial nahue\prog_c1_parcial_1_entregable\funciones.c
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	"funciones.h"
+

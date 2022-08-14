@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1656014150 source:c:\users\ignac\desktop\28062022\main.c
+	"main.h"
+
+1625975802 c:\users\ignac\desktop\28062022\main.h
+	<stdio.h>
+	"funciones.h"
+	"que_hice.h"
+	<stdlib.h>
+	<string.h>
+
+1656014168 c:\users\ignac\desktop\28062022\funciones.h
+	<stdio.h>
+	"que_hice.h"
+	"tda_definiciones.h"
+
+1656450975 c:\users\ignac\desktop\28062022\que_hice.h
+
+1656455006 c:\users\ignac\desktop\28062022\tda_definiciones.h
+
+1656455843 source:c:\users\ignac\desktop\28062022\funciones.c
+	"stdlib.h"
+	"string.h"
+	"funciones.h"
+

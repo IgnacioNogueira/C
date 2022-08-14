@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1656958172 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\parcial 2\2do parcial mio presencial\64bits_2\prog_c1_parcial_2_entregable\funciones.c
+	"funciones.h"
+
+1656958172 c:\users\ignac\desktop\cosas para parcial progra\cachito\parcial 2\2do parcial mio presencial\64bits_2\prog_c1_parcial_2_entregable\funciones.h
+	<stdio.h>
+	"que_hice.h"
+	"tda_definiciones.h"
+
+1658842231 c:\users\ignac\desktop\cosas para parcial progra\cachito\parcial 2\2do parcial mio presencial\64bits_2\prog_c1_parcial_2_entregable\que_hice.h
+
+1656804122 c:\users\ignac\desktop\cosas para parcial progra\cachito\parcial 2\2do parcial mio presencial\64bits_2\prog_c1_parcial_2_entregable\tda_definiciones.h
+
+1656958703 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\parcial 2\2do parcial mio presencial\64bits_2\prog_c1_parcial_2_entregable\main.c
+	"main.h"
+
+1656955045 c:\users\ignac\desktop\cosas para parcial progra\cachito\parcial 2\2do parcial mio presencial\64bits_2\prog_c1_parcial_2_entregable\main.h
+	<stdio.h>
+	"funciones.h"
+	"que_hice.h"
+	<stdlib.h>
+	<string.h>
+
+1656958703 source:c:\users\ignac\desktop\64bits_2\prog_c1_parcial_2_entregable\main.c
+	"main.h"
+
+1656955045 c:\users\ignac\desktop\64bits_2\prog_c1_parcial_2_entregable\main.h
+	<stdio.h>
+	"funciones.h"
+	"que_hice.h"
+	<stdlib.h>
+	<string.h>
+
+1656958172 c:\users\ignac\desktop\64bits_2\prog_c1_parcial_2_entregable\funciones.h
+	<stdio.h>
+	"que_hice.h"
+	"tda_definiciones.h"
+
+1658867268 c:\users\ignac\desktop\64bits_2\prog_c1_parcial_2_entregable\que_hice.h
+
+1656804122 c:\users\ignac\desktop\64bits_2\prog_c1_parcial_2_entregable\tda_definiciones.h
+
+1658871446 source:c:\users\ignac\desktop\64bits_2\prog_c1_parcial_2_entregable\funciones.c
+	<string.h>
+	<stdlib.h>
+	"funciones.h"
+

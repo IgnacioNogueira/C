@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1656680734 source:c:\users\ignac\desktop\lamamadelamamadelamama - copia\copia practica 2222\funciones.c
+	"stdlib.h"
+	"string.h"
+	"funciones.h"
+
+1656459480 c:\users\ignac\desktop\lamamadelamamadelamama - copia\copia practica 2222\funciones.h
+	<stdio.h>
+	"que_hice.h"
+	"tda_definiciones.h"
+
+1656680702 c:\users\ignac\desktop\lamamadelamamadelamama - copia\copia practica 2222\que_hice.h
+
+1656455006 c:\users\ignac\desktop\lamamadelamamadelamama - copia\copia practica 2222\tda_definiciones.h
+
+1656527606 source:c:\users\ignac\desktop\lamamadelamamadelamama - copia\copia practica 2222\main.c
+	"main.h"
+
+1625975802 c:\users\ignac\desktop\lamamadelamamadelamama - copia\copia practica 2222\main.h
+	<stdio.h>
+	"funciones.h"
+	"que_hice.h"
+	<stdlib.h>
+	<string.h>
+
+1656527606 source:c:\users\ignac\desktop\parcial-2-mi-version nacho\main.c
+	"main.h"
+
+1625975802 c:\users\ignac\desktop\parcial-2-mi-version nacho\main.h
+	<stdio.h>
+	"funciones.h"
+	"que_hice.h"
+	<stdlib.h>
+	<string.h>
+
+1656459480 c:\users\ignac\desktop\parcial-2-mi-version nacho\funciones.h
+	<stdio.h>
+	"que_hice.h"
+	"tda_definiciones.h"
+
+1656680702 c:\users\ignac\desktop\parcial-2-mi-version nacho\que_hice.h
+
+1656455006 c:\users\ignac\desktop\parcial-2-mi-version nacho\tda_definiciones.h
+
+1656801366 source:c:\users\ignac\desktop\parcial-2-mi-version nacho\funciones.c
+	"stdlib.h"
+	"string.h"
+	"funciones.h"
+
+1656527606 source:c:\users\ignac\desktop\2do parcial progra\parcial-2-mi-version nacho\main.c
+	"main.h"
+
+1625975802 c:\users\ignac\desktop\2do parcial progra\parcial-2-mi-version nacho\main.h
+	<stdio.h>
+	"funciones.h"
+	"que_hice.h"
+	<stdlib.h>
+	<string.h>
+
+1656459480 c:\users\ignac\desktop\2do parcial progra\parcial-2-mi-version nacho\funciones.h
+	<stdio.h>
+	"que_hice.h"
+	"tda_definiciones.h"
+
+1656680702 c:\users\ignac\desktop\2do parcial progra\parcial-2-mi-version nacho\que_hice.h
+
+1656455006 c:\users\ignac\desktop\2do parcial progra\parcial-2-mi-version nacho\tda_definiciones.h
+
+1656801722 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\parcial 2\2do parcial progra\parcial-2-mi-version nacho\funciones.c
+	"stdlib.h"
+	"string.h"
+	"funciones.h"
+
+1656459480 c:\users\ignac\desktop\cosas para parcial progra\cachito\parcial 2\2do parcial progra\parcial-2-mi-version nacho\funciones.h
+	<stdio.h>
+	"que_hice.h"
+	"tda_definiciones.h"
+
+1656680702 c:\users\ignac\desktop\cosas para parcial progra\cachito\parcial 2\2do parcial progra\parcial-2-mi-version nacho\que_hice.h
+
+1656455006 c:\users\ignac\desktop\cosas para parcial progra\cachito\parcial 2\2do parcial progra\parcial-2-mi-version nacho\tda_definiciones.h
+
+1656527606 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\parcial 2\2do parcial progra\parcial-2-mi-version nacho\main.c
+	"main.h"
+
+1625975802 c:\users\ignac\desktop\cosas para parcial progra\cachito\parcial 2\2do parcial progra\parcial-2-mi-version nacho\main.h
+	<stdio.h>
+	"funciones.h"
+	"que_hice.h"
+	<stdlib.h>
+	<string.h>
+

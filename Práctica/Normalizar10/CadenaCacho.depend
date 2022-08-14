@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1649909326 source:c:\users\ignac\desktop\cadenacacho\main.c
+	"cadena.h"
+	"string.h"
+
+1649909084 c:\users\ignac\desktop\cadenacacho\cadena.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1649907471 c:\users\ignac\desktop\cadenacacho\string.h
+	"cadena.h"
+
+1649908933 source:c:\users\ignac\desktop\cadenacacho\string.c
+	"string.h"
+
+1649909290 source:c:\users\ignac\desktop\cadenacacho\cadena.c
+	"cadena.h"
+	"string.h"
+
+1649909326 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\normalizar10\main.c
+	"cadena.h"
+	"string.h"
+
+1649909084 c:\users\ignac\desktop\cosas para parcial progra\cachito\normalizar10\cadena.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1650221504 c:\users\ignac\desktop\cosas para parcial progra\cachito\normalizar10\string.h
+	"cadena.h"
+
+1650218752 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\normalizar10\cadena.c
+	"cadena.h"
+	"string.h"
+
+1650221483 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\normalizar10\string.c
+	"string.h"
+

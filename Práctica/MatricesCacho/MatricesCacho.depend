@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1649961722 source:c:\users\ignac\desktop\matricescacho\main.c
+	"matriz.h"
+
+1650080833 c:\users\ignac\desktop\matricescacho\matriz.h
+	<stdio.h>
+	<stdlib.h>
+
+1650147629 source:c:\users\ignac\desktop\matricescacho\matriz.c
+	"matriz.h"
+
+1649961722 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\matricescacho\main.c
+	"matriz.h"
+
+1650080833 c:\users\ignac\desktop\cosas para parcial progra\cachito\matricescacho\matriz.h
+	<stdio.h>
+	<stdlib.h>
+
+1653231240 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\matricescacho\matriz.c
+	"matriz.h"
+

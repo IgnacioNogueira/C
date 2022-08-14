@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1654533521 source:c:\users\lauty\desktop\archivo\main.c
+	"main.h"
+	"funciones.h"
+
+1654213176 c:\users\lauty\desktop\archivo\main.h
+
+1654533201 c:\users\lauty\desktop\archivo\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1654733515 source:c:\users\lauty\desktop\archivo\funciones.c
+	"funciones.h"
+
+1654733516 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\Índice\desafio índice\funciones.c
+	"funciones.h"
+
+1654533202 c:\users\ignac\desktop\cosas para parcial progra\cachito\Índice\desafio índice\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1654533522 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\Índice\desafio índice\main.c
+	"main.h"
+	"funciones.h"
+
+1654213178 c:\users\ignac\desktop\cosas para parcial progra\cachito\Índice\desafio índice\main.h
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1648730994 source:c:\users\ignac\desktop\práctica unidad 1\main.c
+	"header.h"
+
+1649303061 c:\users\ignac\desktop\práctica unidad 1\header.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1649307865 source:c:\users\ignac\desktop\práctica unidad 1\funcionesunidad1.c
+	"header.h"
+
+1649463107 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\práctica unidad 1\main.c
+	"header.h"
+
+1649709374 c:\users\ignac\desktop\cosas para parcial progra\cachito\práctica unidad 1\header.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1650830814 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\práctica unidad 1\funcionesunidad1.c
+	"header.h"
+

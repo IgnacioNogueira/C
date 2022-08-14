@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1650828363 source:c:\users\ignac\desktop\unidad2\main.c
+	"header.h"
+	"ejercicios.h"
+
+1650823373 c:\users\ignac\desktop\unidad2\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1651018932 source:c:\users\ignac\desktop\unidad2\funciones.c
+	"funciones.h"
+	"string2.h"
+
+1650809239 c:\users\ignac\desktop\unidad2\string2.h
+	"header.h"
+
+1650809058 source:c:\users\ignac\desktop\unidad2\string2.c
+	"string2.h"
+
+1650917114 source:c:\users\ignac\desktop\unidad2\ejercicios.c
+	"ejercicios.h"
+	"funciones.h"
+
+1650813286 c:\users\ignac\desktop\unidad2\ejercicios.h
+	"header.h"
+
+1650917172 c:\users\ignac\desktop\unidad2\funciones.h
+	"header.h"
+

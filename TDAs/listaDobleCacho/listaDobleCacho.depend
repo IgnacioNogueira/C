@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1653966994 source:c:\users\ignac\desktop\listadoblecacho\main.c
+	"listaDoble.h"
+
+1653949847 c:\users\ignac\desktop\listadoblecacho\listadoble.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1653967085 source:c:\users\ignac\desktop\listadoblecacho\listadoble.c
+	"listaDoble.h"
+
+1658797404 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\listadoblecacho\main.c
+	"listaDoble.h"
+
+1656960584 c:\users\ignac\desktop\cosas para parcial progra\cachito\listadoblecacho\listadoble.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1658797229 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\listadoblecacho\listadoble.c
+	"listaDoble.h"
+

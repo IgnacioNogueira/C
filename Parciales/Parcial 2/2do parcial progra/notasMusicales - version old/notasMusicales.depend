@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1655685141 source:c:\users\eslou\desktop\programacion-2\tcp\notasmusicales\cuerdas.cpp
+	"Cuerdas.h"
+
+1655685571 source:c:\users\eslou\desktop\programacion-2\tcp\notasmusicales\main.cpp
+	<iostream>
+	"Instrumento.h"
+	"Cuerdas.h"
+	"Percusion.h"
+	"Vientos.h"
+	"CambioEscalaException.h"
+
+1655685089 source:c:\users\eslou\desktop\programacion-2\tcp\notasmusicales\percusion.cpp
+	"Percusion.h"
+
+1655685089 source:c:\users\eslou\desktop\programacion-2\tcp\notasmusicales\vientos.cpp
+	"Vientos.h"
+
+1655685519 c:\users\eslou\desktop\programacion-2\tcp\notasmusicales\cuerdas.h
+	"Instrumento.h"
+
+1655683867 c:\users\eslou\desktop\programacion-2\tcp\notasmusicales\instrumento.h
+	<string>
+	"CambioEscalaException.h"
+
+1655685519 c:\users\eslou\desktop\programacion-2\tcp\notasmusicales\percusion.h
+	"Instrumento.h"
+
+1655685519 c:\users\eslou\desktop\programacion-2\tcp\notasmusicales\vientos.h
+	"Instrumento.h"
+
+1655685616 c:\users\eslou\desktop\programacion-2\tcp\notasmusicales\cambioescalaexception.h
+	<exception>
+
+1656210977 source:c:\users\ignac\desktop\notasmusicales\cuerdas.cpp
+	"Cuerdas.h"
+
+1656210965 c:\users\ignac\desktop\notasmusicales\cuerdas.h
+	"Instrumento.h"
+
+1656210747 c:\users\ignac\desktop\notasmusicales\instrumento.h
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	"CambioEscalaException.h"
+
+1655685618 c:\users\ignac\desktop\notasmusicales\cambioescalaexception.h
+	<exception>
+
+1656211026 source:c:\users\ignac\desktop\notasmusicales\main.cpp
+	<iostream>
+	"Instrumento.h"
+	"Cuerdas.h"
+	"Percusion.h"
+	"Vientos.h"
+	"CambioEscalaException.h"
+
+1656182694 c:\users\ignac\desktop\notasmusicales\percusion.h
+	"Instrumento.h"
+
+1656210950 c:\users\ignac\desktop\notasmusicales\vientos.h
+	"Instrumento.h"
+
+1656210868 source:c:\users\ignac\desktop\notasmusicales\vientos.cpp
+	"Vientos.h"
+
+1656182832 source:c:\users\ignac\desktop\notasmusicales\percusion.cpp
+	"Percusion.h"
+	"CambioEscalaException.h"
+
+1656210785 source:c:\users\ignac\desktop\notasmusicales\instrumento.cpp
+	"Instrumento.h"
+
+1656641567 source:c:\users\ignac\desktop\2do parcial progra\notasmusicales\cuerdas.cpp
+	"Cuerdas.h"
+
+1656275191 c:\users\ignac\desktop\2do parcial progra\notasmusicales\cuerdas.h
+	"Instrumento.h"
+
+1656370493 c:\users\ignac\desktop\2do parcial progra\notasmusicales\instrumento.h
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	"CambioEscalaException.h"
+
+1656795133 c:\users\ignac\desktop\2do parcial progra\notasmusicales\cambioescalaexception.h
+	<exception>
+
+1656210785 source:c:\users\ignac\desktop\2do parcial progra\notasmusicales\instrumento.cpp
+	"Instrumento.h"
+
+1656275191 source:c:\users\ignac\desktop\2do parcial progra\notasmusicales\main.cpp
+	<iostream>
+	"Instrumento.h"
+	"Cuerdas.h"
+	"Percusion.h"
+	"Vientos.h"
+	"CambioEscalaException.h"
+
+1656641786 c:\users\ignac\desktop\2do parcial progra\notasmusicales\percusion.h
+	"Instrumento.h"
+
+1656795481 c:\users\ignac\desktop\2do parcial progra\notasmusicales\vientos.h
+	"Instrumento.h"
+
+1656273552 source:c:\users\ignac\desktop\2do parcial progra\notasmusicales\percusion.cpp
+	"Percusion.h"
+	"CambioEscalaException.h"
+
+1656641723 source:c:\users\ignac\desktop\2do parcial progra\notasmusicales\vientos.cpp
+	"Vientos.h"
+
+1656795090 source:c:\users\ignac\desktop\2do parcial progra\notasmusicales\cambioescalaexception.cpp
+	"CambioEscalaException.h"
+

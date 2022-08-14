@@ -1,0 +1,12 @@
+#define APELLIDO    "PEREZ DEL RIO"
+#define NOMBRE      "Juan Manuel"
+#define DOCUMENTO   "22.333.444"
+#define COMISION    "07(7299)"
+
+Punto 1:
+
+Punto 2:
+
+Punto 3:
+
+Punto 4:

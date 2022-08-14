@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1656033816 source:c:\users\ignac\desktop\2doparcialcacho\tdaarbol.c
+	"tdaArbol.h"
+	"tdaColaImpListaCircular.h"
+
+1656032384 c:\users\ignac\desktop\2doparcialcacho\tdaarbol.h
+	"main.h"
+	"tdaColaImpListaCircular.h"
+
+1655694025 c:\users\ignac\desktop\2doparcialcacho\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1656032394 source:c:\users\ignac\desktop\2doparcialcacho\funciones.c
+	"funciones.h"
+
+1656029634 c:\users\ignac\desktop\2doparcialcacho\funciones.h
+	"main.h"
+	"tdaArbol.h"
+	"tdaListaDoble.h"
+	"tdaColaImpListaCircular.h"
+
+1656032407 source:c:\users\ignac\desktop\2doparcialcacho\main.c
+	"main.h"
+	"funciones.h"
+	"tdaArbol.h"
+	"tdaListaDoble.h"
+	"tdaColaImpListaCircular.h"
+
+1655690620 source:c:\users\ignac\desktop\2doparcialcacho\tdalistadoble.c
+	"main.h"
+	"tdaListaDoble.h"
+
+1655677343 c:\users\ignac\desktop\2doparcialcacho\tdalistadoble.h
+
+1655613654 c:\users\ignac\desktop\2doparcialcacho\tdacolaimplistacircular.h
+	"main.h"
+
+1655677694 source:c:\users\ignac\desktop\2doparcialcacho\tdacolaimplistacircular.c
+	"tdaColaImpListaCircular.h"
+

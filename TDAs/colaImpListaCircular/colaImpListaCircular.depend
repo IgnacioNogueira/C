@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1653772042 source:c:\users\ignac\desktop\colaimplistacircular\main.c
+	"colaImpListaCircular.h"
+
+1653775386 c:\users\ignac\desktop\colaimplistacircular\colaimplistacircular.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1653775441 source:c:\users\ignac\desktop\colaimplistacircular\colaimplistacircular.c
+	"colaImpListaCircular.h"
+
+1656695082 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\colaimplistacircular\main.c
+	"colaImpListaCircular.h"
+
+1656693881 c:\users\ignac\desktop\cosas para parcial progra\cachito\colaimplistacircular\colaimplistacircular.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1656695441 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\colaimplistacircular\colaimplistacircular.c
+	"colaImpListaCircular.h"
+

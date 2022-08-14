@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1656014150 source:c:\users\ignac\desktop\prog_c1_parcial_2_entregable_64b\prog_c1_parcial_2_entregable\main.c
+	"main.h"
+
+1625975802 c:\users\ignac\desktop\prog_c1_parcial_2_entregable_64b\prog_c1_parcial_2_entregable\main.h
+	<stdio.h>
+	"funciones.h"
+	"que_hice.h"
+	<stdlib.h>
+	<string.h>
+
+1656014168 c:\users\ignac\desktop\prog_c1_parcial_2_entregable_64b\prog_c1_parcial_2_entregable\funciones.h
+	<stdio.h>
+	"que_hice.h"
+	"tda_definiciones.h"
+
+1656278139 c:\users\ignac\desktop\prog_c1_parcial_2_entregable_64b\prog_c1_parcial_2_entregable\que_hice.h
+
+1656034896 c:\users\ignac\desktop\prog_c1_parcial_2_entregable_64b\prog_c1_parcial_2_entregable\tda_definiciones.h
+
+1656278431 source:c:\users\ignac\desktop\prog_c1_parcial_2_entregable_64b\prog_c1_parcial_2_entregable\funciones.c
+	"stdlib.h"
+	"string.h"
+	"funciones.h"
+
+1656168209 source:c:\users\ignac\desktop\2do parcial progra\prog_c1_parcial_2_entregable_64b\prog_c1_parcial_2_entregable\funciones.c
+	"stdlib.h"
+	"string.h"
+	"funciones.h"
+
+1656014168 c:\users\ignac\desktop\2do parcial progra\prog_c1_parcial_2_entregable_64b\prog_c1_parcial_2_entregable\funciones.h
+	<stdio.h>
+	"que_hice.h"
+	"tda_definiciones.h"
+
+1656114593 c:\users\ignac\desktop\2do parcial progra\prog_c1_parcial_2_entregable_64b\prog_c1_parcial_2_entregable\que_hice.h
+
+1656034896 c:\users\ignac\desktop\2do parcial progra\prog_c1_parcial_2_entregable_64b\prog_c1_parcial_2_entregable\tda_definiciones.h
+
+1656014150 source:c:\users\ignac\desktop\2do parcial progra\prog_c1_parcial_2_entregable_64b\prog_c1_parcial_2_entregable\main.c
+	"main.h"
+
+1625975802 c:\users\ignac\desktop\2do parcial progra\prog_c1_parcial_2_entregable_64b\prog_c1_parcial_2_entregable\main.h
+	<stdio.h>
+	"funciones.h"
+	"que_hice.h"
+	<stdlib.h>
+	<string.h>
+
+1656278431 source:c:\users\eslou\desktop\prog_c1_parcial_2_entregable_64b\prog_c1_parcial_2_entregable\funciones.c
+	"stdlib.h"
+	"string.h"
+	"funciones.h"
+
+1656014168 c:\users\eslou\desktop\prog_c1_parcial_2_entregable_64b\prog_c1_parcial_2_entregable\funciones.h
+	<stdio.h>
+	"que_hice.h"
+	"tda_definiciones.h"
+
+1656278139 c:\users\eslou\desktop\prog_c1_parcial_2_entregable_64b\prog_c1_parcial_2_entregable\que_hice.h
+
+1656034896 c:\users\eslou\desktop\prog_c1_parcial_2_entregable_64b\prog_c1_parcial_2_entregable\tda_definiciones.h
+
+1656014150 source:c:\users\eslou\desktop\prog_c1_parcial_2_entregable_64b\prog_c1_parcial_2_entregable\main.c
+	"main.h"
+
+1625975802 c:\users\eslou\desktop\prog_c1_parcial_2_entregable_64b\prog_c1_parcial_2_entregable\main.h
+	<stdio.h>
+	"funciones.h"
+	"que_hice.h"
+	<stdlib.h>
+	<string.h>
+

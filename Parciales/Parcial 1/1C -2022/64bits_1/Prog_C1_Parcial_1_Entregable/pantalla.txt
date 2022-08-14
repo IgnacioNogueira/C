@@ -1,0 +1,158 @@
+************************************************************
+*    Punto 1: comienza a ejecutarse.                       *
+************************************************************
+- Cadena inicial:     >> hOla.   esta eS LA caDenA.    <<
+- Cadena normalizada: >>Hola. Esta Es La Cadena.<<
+************************************************************
+*    Fin ejecución Punto 1.                                 *
+************************************************************
+
+************************************************************
+*    Punto 2: comienza a ejecutarse.                       *
+************************************************************
+- Contenido del archivo maestro 01:
+
+1 Producto uno 1/4/2004 10 1111.11
+2 producto DOS 1/1/2002 20 22.20
+5 proDucto Cinco   1/3/2003 50 555.00
+9   Producto   NUEVe 1/5/2009 90 9.99
+11       producto oncE 1/1/2011 110 11011.10
+
+- Contenido del archivo maestro 02:
+
+2 producto DOS     2/22/2002 20 22.20
+2  producto DOS 2/2/2002 20 22.20
+3 proDucto treS 3/3/2003 30 30.20
+4     producto cuatro  4/2/2004 40 24.40
+6 PRODUCTO    SEIS 6/2/2006 60 62.20
+9 PRODUCTO    nueve 9/2/2006 90 99.90
+9 PRODUCTO  nueVe 19/2/2009 90 99.90
+12 pRODUcto        DOCe    1/2/2012 120 12.12
+
+- Contenido del archivo maestro fusionado:
+
+1 Producto Uno 1/4/2004 10 1111.11
+2 Producto Dos 1/1/2002 20 22.20
+2 Producto Dos 2/22/2002 20 22.20
+2 Producto Dos 2/2/2002 20 22.20
+3 Producto Tres 3/3/2003 30 30.20
+4 Producto Cuatro 4/2/2004 40 24.40
+5 Producto Cinco 1/3/2003 50 555.00
+6 Producto Seis 6/2/2006 60 62.20
+9 Producto Nueve 1/5/2009 90 9.99
+9 Producto Nueve 9/2/2006 90 99.90
+9 Producto Nueve 19/2/2009 90 99.90
+11 Producto Once 1/1/2011 110 11011.10
+12 Producto Doce 1/2/2012 120 12.12
+************************************************************
+*    Fin ejecución Punto 2.                                *
+************************************************************
+
+************************************************************
+*    Punto 3: comienza a ejecutarse.                       *
+************************************************************
+- Contenido de la lista:
+
+1 Producto Uno 1/4/2004 10 1111.11
+2 Producto Dos 1/1/2002 20 22.20
+2 Producto Dos 2/22/2002 20 22.20
+2 Producto Dos 2/2/2002 20 22.20
+3 Producto Tres 3/3/2003 30 30.20
+4 Producto Cuatro 4/2/2004 40 24.40
+5 Producto Cinco 1/3/2003 50 555.00
+6 Producto Seis 6/2/2006 60 62.20
+9 Producto Nueve 1/5/2009 90 9.99
+9 Producto Nueve 9/2/2006 90 99.90
+9 Producto Nueve 19/2/2009 90 99.90
+11 Producto Once 1/1/2011 110 11011.10
+12 Producto Doce 1/2/2012 120 12.12
+************************************************************
+*    Fin ejecución Punto 3.                                *
+************************************************************
+
+************************************************************
+*    Punto 4: comienza a ejecutarse.                       *
+************************************************************
+- Lista antes de la eliminacion de los duplicados:
+
+1 Producto Uno 1/4/2004 10 1111.11
+2 Producto Dos 1/1/2002 20 22.20
+2 Producto Dos 2/22/2002 20 22.20
+2 Producto Dos 2/2/2002 20 22.20
+3 Producto Tres 3/3/2003 30 30.20
+4 Producto Cuatro 4/2/2004 40 24.40
+5 Producto Cinco 1/3/2003 50 555.00
+6 Producto Seis 6/2/2006 60 62.20
+9 Producto Nueve 1/5/2009 90 9.99
+9 Producto Nueve 9/2/2006 90 99.90
+9 Producto Nueve 19/2/2009 90 99.90
+11 Producto Once 1/1/2011 110 11011.10
+12 Producto Doce 1/2/2012 120 12.12
+
+- Lista luego de la eliminacion de los duplicados:
+
+1 Producto Uno 1/4/2004 10 1111.11
+2 Producto Dos 2/2/2002 60 22.20
+3 Producto Tres 3/3/2003 30 30.20
+4 Producto Cuatro 4/2/2004 40 24.40
+5 Producto Cinco 1/3/2003 50 555.00
+6 Producto Seis 6/2/2006 60 62.20
+9 Producto Nueve 19/2/2009 270 9.99
+11 Producto Once 1/1/2011 110 11011.10
+12 Producto Doce 1/2/2012 120 12.12
+
+- Se eliminaron: 4 nodos.
+
+- Contenido del archivo maestro sobrescrito:
+
+1 Producto Uno 1/4/2004 10 1111.11
+2 Producto Dos 2/2/2002 60 22.20
+3 Producto Tres 3/3/2003 30 30.20
+4 Producto Cuatro 4/2/2004 40 24.40
+5 Producto Cinco 1/3/2003 50 555.00
+6 Producto Seis 6/2/2006 60 62.20
+9 Producto Nueve 19/2/2009 270 9.99
+11 Producto Once 1/1/2011 110 11011.10
+12 Producto Doce 1/2/2012 120 12.12
+************************************************************
+*    Fin ejecución Punto 4.                                *
+************************************************************
+
+************************************************************
+*    Punto 5: comienza a ejecutarse.                       *
+************************************************************
+- Contenido del archivo maestro:
+1 Producto Uno 1/4/2004 10 1111.11
+2 Producto Dos 2/2/2002 60 22.20
+3 Producto Tres 3/3/2003 30 30.20
+4 Producto Cuatro 4/2/2004 40 24.40
+5 Producto Cinco 1/3/2003 50 555.00
+6 Producto Seis 6/2/2006 60 62.20
+9 Producto Nueve 19/2/2009 270 9.99
+11 Producto Once 1/1/2011 110 11011.10
+12 Producto Doce 1/2/2012 120 12.12
+
+- Contenido del archivo novedades:
+1	E	100
+2	I	10
+1	I	150
+11	I	25
+9	I	40
+6	E	10
+
+- Contenido del archivo maestro actualizado:
+1 Producto Uno 1/4/2004 60 1111.11
+2 Producto Dos 2/2/2002 70 22.20
+3 Producto Tres 3/3/2003 30 30.20
+4 Producto Cuatro 4/2/2004 40 24.40
+5 Producto Cinco 1/3/2003 50 555.00
+6 Producto Seis 6/2/2006 50 62.20
+9 Producto Nueve 19/2/2009 310 9.99
+11 Producto Once 1/1/2011 135 11011.10
+12 Producto Doce 1/2/2012 120 12.12
+
+- Se realizaron 6 actualizaciones.
+************************************************************
+*    Fin ejecución Punto 5.                                *
+************************************************************
+

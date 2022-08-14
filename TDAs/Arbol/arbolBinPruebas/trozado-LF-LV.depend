@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1650849856 source:c:\users\eslou\desktop\programacion-2\archivos\trozado-lf-lv\trozadolflv.c
+	"trozadoLFLV.h"
+
+1650851121 source:c:\users\eslou\desktop\programacion-2\archivos\trozado-lf-lv\main.c
+	"main.h"
+
+1650850079 c:\users\eslou\desktop\programacion-2\archivos\trozado-lf-lv\trozadolflv.h
+	<stdio.h>
+	<string.h>
+	"estructuras.h"
+
+1650849615 source:c:\users\eslou\desktop\programacion-2\archivos\trozado-lf-lv\pasajebintext.c
+	"pasajeBinText.h"
+
+1650850919 source:c:\users\eslou\desktop\programacion-2\archivos\trozado-lf-lv\archivosbasico.c
+	"archivosBasico.h"
+
+1650850748 c:\users\eslou\desktop\programacion-2\archivos\trozado-lf-lv\archivosbasico.h
+	<stdio.h>
+	"trozadoLFLV.h"
+	"estructuras.h"
+
+1650850183 c:\users\eslou\desktop\programacion-2\archivos\trozado-lf-lv\pasajebintext.h
+	"archivosBasico.h"
+
+1650850153 c:\users\eslou\desktop\programacion-2\archivos\trozado-lf-lv\estructuras.h
+
+1650850503 c:\users\eslou\desktop\programacion-2\archivos\trozado-lf-lv\main.h
+	"archivosBasico.h"
+	"pasajeBinText.h"
+
+1650851322 source:c:\users\eslou\desktop\programacion-2\archivos\pasaje-lf-lv\archivosbasico.c
+	"archivosBasico.h"
+
+1650850748 c:\users\eslou\desktop\programacion-2\archivos\pasaje-lf-lv\archivosbasico.h
+	<stdio.h>
+	"trozadoLFLV.h"
+	"estructuras.h"
+
+1650850079 c:\users\eslou\desktop\programacion-2\archivos\pasaje-lf-lv\trozadolflv.h
+	<stdio.h>
+	<string.h>
+	"estructuras.h"
+
+1650850153 c:\users\eslou\desktop\programacion-2\archivos\pasaje-lf-lv\estructuras.h
+
+1650851121 source:c:\users\eslou\desktop\programacion-2\archivos\pasaje-lf-lv\main.c
+	"main.h"
+
+1650850503 c:\users\eslou\desktop\programacion-2\archivos\pasaje-lf-lv\main.h
+	"archivosBasico.h"
+	"pasajeBinText.h"
+
+1650850183 c:\users\eslou\desktop\programacion-2\archivos\pasaje-lf-lv\pasajebintext.h
+	"archivosBasico.h"
+
+1650849615 source:c:\users\eslou\desktop\programacion-2\archivos\pasaje-lf-lv\pasajebintext.c
+	"pasajeBinText.h"
+
+1650849856 source:c:\users\eslou\desktop\programacion-2\archivos\pasaje-lf-lv\trozadolflv.c
+	"trozadoLFLV.h"
+

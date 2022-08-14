@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1650217499 source:c:\users\ignac\desktop\atoiitoa\main.c
+	"header.h"
+	"strings.h"
+	"funciones.h"
+
+1650224856 c:\users\ignac\desktop\atoiitoa\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1650902139 source:c:\users\ignac\desktop\atoiitoa\funciones.c
+	"header.h"
+	"strings.h"
+	"funciones.h"
+
+1650808169 source:c:\users\ignac\desktop\atoiitoa\strings.c
+	"strings.h"
+
+1650230987 c:\users\ignac\desktop\atoiitoa\strings.h
+	"header.h"
+
+1650246567 c:\users\ignac\desktop\atoiitoa\funciones.h
+	"header.h"
+

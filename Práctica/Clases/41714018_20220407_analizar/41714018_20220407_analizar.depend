@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1650851538 source:c:\users\ignac\desktop\41714018_20220407_analizar\41714018_20220407_analizar.c
+	"header.h"
+
+1650840922 c:\users\ignac\desktop\41714018_20220407_analizar\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1650851591 source:c:\users\ignac\desktop\41714018_20220407_analizar\main.c
+	"header.h"
+
+1650851578 source:c:\users\ignac\desktop\41714018_20220407_analizar\41714018_20220407_maximo.c
+	"header.h"
+

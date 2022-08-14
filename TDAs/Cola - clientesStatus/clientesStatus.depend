@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1652904112 source:c:\users\ignac\desktop\clientesstatus\pedidos.c
+	"pedidos.h"
+	"colaDinamica.h"
+
+1652846818 c:\users\ignac\desktop\clientesstatus\pedidos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1652470874 c:\users\ignac\desktop\clientesstatus\coladinamica.h
+	"pedidos.h"
+
+1652824664 source:c:\users\ignac\desktop\clientesstatus\coladinamica.c
+	"colaDinamica.h"
+
+1652844250 source:c:\users\ignac\desktop\clientesstatus\main.c
+	"pedidos.h"
+	"colaDinamica.h"
+
+1652824664 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\clientesstatus\coladinamica.c
+	"colaDinamica.h"
+
+1652470874 c:\users\ignac\desktop\cosas para parcial progra\cachito\clientesstatus\coladinamica.h
+	"pedidos.h"
+
+1652846818 c:\users\ignac\desktop\cosas para parcial progra\cachito\clientesstatus\pedidos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1652844250 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\clientesstatus\main.c
+	"pedidos.h"
+	"colaDinamica.h"
+
+1653242853 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\clientesstatus\pedidos.c
+	"pedidos.h"
+	"colaDinamica.h"
+
+1652824664 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\cola - clientesstatus\coladinamica.c
+	"colaDinamica.h"
+
+1652470874 c:\users\ignac\desktop\cosas para parcial progra\cachito\cola - clientesstatus\coladinamica.h
+	"pedidos.h"
+
+1652846818 c:\users\ignac\desktop\cosas para parcial progra\cachito\cola - clientesstatus\pedidos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1652844250 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\cola - clientesstatus\main.c
+	"pedidos.h"
+	"colaDinamica.h"
+
+1653242874 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\cola - clientesstatus\pedidos.c
+	"pedidos.h"
+	"colaDinamica.h"
+

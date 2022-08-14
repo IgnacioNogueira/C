@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1658176462 source:c:\users\ignac\desktop\cpluplusprimerparcial\main.cpp
+	"Cadena.h"
+
+1658175609 c:\users\ignac\desktop\cpluplusprimerparcial\cadena.h
+	<iostream>
+
+1658176009 source:c:\users\ignac\desktop\cpluplusprimerparcial\cadena.cpp
+	"Cadena.h"
+
+1658177519 source:c:\users\ignac\desktop\parcial 1 - copia\cpluplusprimerparcial\main.cpp
+	"Cadena.h"
+
+1658176659 c:\users\ignac\desktop\parcial 1 - copia\cpluplusprimerparcial\cadena.h
+	<iostream>
+	"string.h"
+
+1658177513 source:c:\users\ignac\desktop\parcial 1 - copia\cpluplusprimerparcial\cadena.cpp
+	"Cadena.h"
+

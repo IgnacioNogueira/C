@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1658846272 source:c:\users\ignac\desktop\ejerciciopersonaparcial\main.cpp
+	"Persona.h"
+	"Empleado.h"
+	"mostrarPersona.h"
+	"EdadEmpleadoInvalidaException.h"
+
+1658844899 c:\users\ignac\desktop\ejerciciopersonaparcial\persona.h
+	<iostream>
+	<string>
+
+1658846367 source:c:\users\ignac\desktop\ejerciciopersonaparcial\persona.cpp
+	"Persona.h"
+
+1658845469 source:c:\users\ignac\desktop\ejerciciopersonaparcial\mostrarpersona.cpp
+	"mostrarPersona.h"
+
+1658845239 c:\users\ignac\desktop\ejerciciopersonaparcial\mostrarpersona.h
+	"Persona.h"
+
+1658845876 source:c:\users\ignac\desktop\ejerciciopersonaparcial\edadempleadoinvalidaexception.cpp
+	"EdadEmpleadoInvalidaException.h"
+
+1658846319 c:\users\ignac\desktop\ejerciciopersonaparcial\edadempleadoinvalidaexception.h
+	<exception>
+
+1658846483 source:c:\users\ignac\desktop\ejerciciopersonaparcial\empleado.cpp
+	"Empleado.h"
+
+1658846386 c:\users\ignac\desktop\ejerciciopersonaparcial\empleado.h
+	"Persona.h"
+	"EdadEmpleadoInvalidaException.h"
+

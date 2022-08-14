@@ -1,0 +1,153 @@
+# depslib dependency file v1.0
+1656822628 source:c:\users\ignac\desktop\instrumentopractica\main.cpp
+	"Instrumento.h"
+	"Cuerdas.h"
+	"Vientos.h"
+	"Percusion.h"
+	"CambioEscalaException.h"
+
+1656869220 c:\users\ignac\desktop\instrumentopractica\instrumento.h
+	<iostream>
+	"CambioEscalaException.h"
+
+1656869220 source:c:\users\ignac\desktop\instrumentopractica\instrumento.cpp
+	"Instrumento.h"
+
+1656869128 source:c:\users\ignac\desktop\instrumentopractica\percusion.cpp
+	"Percusion.h"
+
+1656869128 c:\users\ignac\desktop\instrumentopractica\percusion.h
+	"Instrumento.h"
+
+1656802840 source:c:\users\ignac\desktop\instrumentopractica\cambioescalaexception.cpp
+	"CambioEscalaException.h"
+
+1656869411 c:\users\ignac\desktop\instrumentopractica\cambioescalaexception.h
+	<exception>
+
+1656869192 source:c:\users\ignac\desktop\instrumentopractica\vientos.cpp
+	"Vientos.h"
+
+1656869191 c:\users\ignac\desktop\instrumentopractica\vientos.h
+	"Instrumento.h"
+
+1656869171 source:c:\users\ignac\desktop\instrumentopractica\cuerdas.cpp
+	"Cuerdas.h"
+
+1656869172 c:\users\ignac\desktop\instrumentopractica\cuerdas.h
+	"Instrumento.h"
+
+1656802840 source:c:\users\ignac\desktop\instrumentopractica - nacho\cambioescalaexception.cpp
+	"CambioEscalaException.h"
+
+1656869411 c:\users\ignac\desktop\instrumentopractica - nacho\cambioescalaexception.h
+	<exception>
+
+1656869171 source:c:\users\ignac\desktop\instrumentopractica - nacho\cuerdas.cpp
+	"Cuerdas.h"
+
+1656869172 c:\users\ignac\desktop\instrumentopractica - nacho\cuerdas.h
+	"Instrumento.h"
+
+1656870026 c:\users\ignac\desktop\instrumentopractica - nacho\instrumento.h
+	<iostream>
+	"CambioEscalaException.h"
+
+1656869220 source:c:\users\ignac\desktop\instrumentopractica - nacho\instrumento.cpp
+	"Instrumento.h"
+
+1656822628 source:c:\users\ignac\desktop\instrumentopractica - nacho\main.cpp
+	"Instrumento.h"
+	"Cuerdas.h"
+	"Vientos.h"
+	"Percusion.h"
+	"CambioEscalaException.h"
+
+1656869191 c:\users\ignac\desktop\instrumentopractica - nacho\vientos.h
+	"Instrumento.h"
+
+1656869128 c:\users\ignac\desktop\instrumentopractica - nacho\percusion.h
+	"Instrumento.h"
+
+1656869128 source:c:\users\ignac\desktop\instrumentopractica - nacho\percusion.cpp
+	"Percusion.h"
+
+1656869192 source:c:\users\ignac\desktop\instrumentopractica - nacho\vientos.cpp
+	"Vientos.h"
+
+1656802840 source:c:\users\ignac\desktop\2do parcial progra\instrumentopractica - nacho actual\cambioescalaexception.cpp
+	"CambioEscalaException.h"
+
+1656869411 c:\users\ignac\desktop\2do parcial progra\instrumentopractica - nacho actual\cambioescalaexception.h
+	<exception>
+
+1656869171 source:c:\users\ignac\desktop\2do parcial progra\instrumentopractica - nacho actual\cuerdas.cpp
+	"Cuerdas.h"
+
+1656869172 c:\users\ignac\desktop\2do parcial progra\instrumentopractica - nacho actual\cuerdas.h
+	"Instrumento.h"
+
+1656957626 c:\users\ignac\desktop\2do parcial progra\instrumentopractica - nacho actual\instrumento.h
+	<iostream>
+	"CambioEscalaException.h"
+
+1656869220 source:c:\users\ignac\desktop\2do parcial progra\instrumentopractica - nacho actual\instrumento.cpp
+	"Instrumento.h"
+
+1656822628 source:c:\users\ignac\desktop\2do parcial progra\instrumentopractica - nacho actual\main.cpp
+	"Instrumento.h"
+	"Cuerdas.h"
+	"Vientos.h"
+	"Percusion.h"
+	"CambioEscalaException.h"
+
+1656869191 c:\users\ignac\desktop\2do parcial progra\instrumentopractica - nacho actual\vientos.h
+	"Instrumento.h"
+
+1656869128 c:\users\ignac\desktop\2do parcial progra\instrumentopractica - nacho actual\percusion.h
+	"Instrumento.h"
+
+1656869128 source:c:\users\ignac\desktop\2do parcial progra\instrumentopractica - nacho actual\percusion.cpp
+	"Percusion.h"
+
+1656869192 source:c:\users\ignac\desktop\2do parcial progra\instrumentopractica - nacho actual\vientos.cpp
+	"Vientos.h"
+
+1656802840 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\parcial 2\2do parcial progra\instrumentopractica - nacho actual\cambioescalaexception.cpp
+	"CambioEscalaException.h"
+
+1656869411 c:\users\ignac\desktop\cosas para parcial progra\cachito\parcial 2\2do parcial progra\instrumentopractica - nacho actual\cambioescalaexception.h
+	<exception>
+
+1658953695 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\parcial 2\2do parcial progra\instrumentopractica - nacho actual\cuerdas.cpp
+	"Cuerdas.h"
+
+1656869172 c:\users\ignac\desktop\cosas para parcial progra\cachito\parcial 2\2do parcial progra\instrumentopractica - nacho actual\cuerdas.h
+	"Instrumento.h"
+
+1656957626 c:\users\ignac\desktop\cosas para parcial progra\cachito\parcial 2\2do parcial progra\instrumentopractica - nacho actual\instrumento.h
+	<iostream>
+	"CambioEscalaException.h"
+
+1656869220 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\parcial 2\2do parcial progra\instrumentopractica - nacho actual\instrumento.cpp
+	"Instrumento.h"
+
+1656822628 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\parcial 2\2do parcial progra\instrumentopractica - nacho actual\main.cpp
+	"Instrumento.h"
+	"Cuerdas.h"
+	"Vientos.h"
+	"Percusion.h"
+	"CambioEscalaException.h"
+
+1656869191 c:\users\ignac\desktop\cosas para parcial progra\cachito\parcial 2\2do parcial progra\instrumentopractica - nacho actual\vientos.h
+	"Instrumento.h"
+
+1656869128 c:\users\ignac\desktop\cosas para parcial progra\cachito\parcial 2\2do parcial progra\instrumentopractica - nacho actual\percusion.h
+	"Instrumento.h"
+
+1656869128 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\parcial 2\2do parcial progra\instrumentopractica - nacho actual\percusion.cpp
+	"Percusion.h"
+
+1656869192 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\parcial 2\2do parcial progra\instrumentopractica - nacho actual\vientos.cpp
+	"Vientos.h"
+

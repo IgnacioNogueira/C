@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1655603851 source:c:\users\ignac\desktop\arbolcacho\main.c
+	"arbol.h"
+	"Utils.h"
+	"funciones.h"
+
+1655519318 c:\users\ignac\desktop\arbolcacho\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1656035501 source:c:\users\ignac\desktop\arbolcacho\arbol.c
+	"arbol.h"
+
+1655591688 c:\users\ignac\desktop\arbolcacho\utils.h
+	"arbol.h"
+
+1655594825 source:c:\users\ignac\desktop\arbolcacho\utils.c
+	"Utils.h"
+
+1655582490 source:c:\users\ignac\desktop\arbolcacho\funciones.c
+	"funciones.h"
+
+1655582504 c:\users\ignac\desktop\arbolcacho\funciones.h
+	"arbol.h"
+	"Utils.h"
+
+1655582490 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\arbol\arbolcacho\funciones.c
+	"funciones.h"
+
+1658936973 c:\users\ignac\desktop\cosas para parcial progra\cachito\arbol\arbolcacho\funciones.h
+	"arbol.h"
+	"Utils.h"
+
+1658936932 c:\users\ignac\desktop\cosas para parcial progra\cachito\arbol\arbolcacho\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"funciones.h"
+
+1658937447 c:\users\ignac\desktop\cosas para parcial progra\cachito\arbol\arbolcacho\utils.h
+	"arbol.h"
+
+1656941876 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\arbol\arbolcacho\main.c
+	"arbol.h"
+	"Utils.h"
+	"funciones.h"
+
+1655594825 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\arbol\arbolcacho\utils.c
+	"Utils.h"
+
+1656941862 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\arbol\arbolcacho\arbol.c
+	"arbol.h"
+	"funciones.h"
+

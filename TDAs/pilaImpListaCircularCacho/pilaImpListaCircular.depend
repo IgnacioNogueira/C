@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1653767637 source:c:\users\ignac\desktop\pilaimplistacircularcacho\main.c
+	"pilaImpListaCircular.h"
+
+1653771556 c:\users\ignac\desktop\pilaimplistacircularcacho\pilaimplistacircular.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1653767616 source:c:\users\ignac\desktop\pilaimplistacircularcacho\pilaimplistacircular.c
+	"pilaImpListaCircular.h"
+
+1656696330 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\pilaimplistacircularcacho\pilaimplistacircular.c
+	"pilaImpListaCircular.h"
+
+1656696933 c:\users\ignac\desktop\cosas para parcial progra\cachito\pilaimplistacircularcacho\pilaimplistacircular.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1656696940 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\pilaimplistacircularcacho\main.c
+	"pilaImpListaCircular.h"
+

@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1651881576 source:c:\users\ignac\desktop\tdapilacacho\main.c
+	"pila.h"
+
+1651881366 c:\users\ignac\desktop\tdapilacacho\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1651881257 c:\users\ignac\desktop\tdapilacacho\piladinamica.h
+	"pila.h"
+
+1651285527 c:\users\ignac\desktop\tdapilacacho\pilaestatica.h
+	"pila.h"
+
+1651883633 source:c:\users\ignac\desktop\tdapilacacho\pila.c
+	"pila.h"
+	"pilaDinamica.h"
+	"pilaEstatica.h"
+	"funcionesPila.h"
+
+1651286551 source:c:\users\ignac\desktop\tdapilacacho\piladinamica.c
+	"pilaDinamica.h"
+
+1651285682 source:c:\users\ignac\desktop\tdapilacacho\pillaestatica.c
+	"pilaEstatica.h"
+
+1651883793 source:c:\users\ignac\desktop\tdapilacacho\funcionespila.c
+	"funcionesPila.h"
+
+1651883586 c:\users\ignac\desktop\tdapilacacho\funcionespila.h
+	"pila.h"
+	"pilaDinamica.h"
+	"pilaEstatica.h"
+
+1653334207 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\pila cacho\tdapilacacho\main.c
+	"pila.h"
+
+1651881366 c:\users\ignac\desktop\cosas para parcial progra\cachito\pila cacho\tdapilacacho\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1653334133 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\pila cacho\tdapilacacho\pila.c
+	"pila.h"
+	"pilaDinamica.h"
+	"pilaEstatica.h"
+	"funcionesPila.h"
+
+1653310531 c:\users\ignac\desktop\cosas para parcial progra\cachito\pila cacho\tdapilacacho\piladinamica.h
+	"pila.h"
+
+1651285527 c:\users\ignac\desktop\cosas para parcial progra\cachito\pila cacho\tdapilacacho\pilaestatica.h
+	"pila.h"
+
+1651883586 c:\users\ignac\desktop\cosas para parcial progra\cachito\pila cacho\tdapilacacho\funcionespila.h
+	"pila.h"
+	"pilaDinamica.h"
+	"pilaEstatica.h"
+
+1651285682 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\pila cacho\tdapilacacho\pillaestatica.c
+	"pilaEstatica.h"
+
+1653312196 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\pila cacho\tdapilacacho\funcionespila.c
+	"funcionesPila.h"
+
+1653334378 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\pila cacho\tdapilacacho\piladinamica.c
+	"pilaDinamica.h"
+

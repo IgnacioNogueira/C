@@ -1,0 +1,8 @@
+2;producto DOS    ;2/22/2002;20;22.20
+2; producto DOS;2/2/2002;20;22.20
+3;proDucto treS;3/3/2003;30;30.20
+4;    producto cuatro ;4/2/2004;40;24.40
+6;PRODUCTO    SEIS;6/2/2006;60;62.20
+9;PRODUCTO    nueve;9/2/2006;90;99.90
+9;PRODUCTO  nueVe;19/2/2009;90;99.90
+12;pRODUcto        DOCe   ;1/2/2012;120;12.12

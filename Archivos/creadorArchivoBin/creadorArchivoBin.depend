@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1652840920 source:c:\users\ignac\desktop\creadorarchivobin\main.c
+	"header.h"
+
+1652840908 c:\users\ignac\desktop\creadorarchivobin\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1652904392 source:c:\users\ignac\desktop\creadorarchivobin\funciones.c
+	"header.h"
+

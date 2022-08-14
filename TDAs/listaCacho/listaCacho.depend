@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1653018255 source:c:\users\ignac\desktop\listacacho\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tdaLista.h"
+	"lista.h"
+
+1653074773 c:\users\ignac\desktop\listacacho\tdalista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1653076434 c:\users\ignac\desktop\listacacho\lista.h
+	"tdaLista.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1653075776 source:c:\users\ignac\desktop\listacacho\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tdaLista.h"
+	"lista.h"
+
+1653075344 source:c:\users\ignac\desktop\listacacho\tdalista.c
+	"tdaLista.h"
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1653075776 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\listacacho\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tdaLista.h"
+	"lista.h"
+
+1653074773 c:\users\ignac\desktop\cosas para parcial progra\cachito\listacacho\tdalista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1653076434 c:\users\ignac\desktop\cosas para parcial progra\cachito\listacacho\lista.h
+	"tdaLista.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1658949589 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\listacacho\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tdaLista.h"
+	"lista.h"
+
+1658949581 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\listacacho\tdalista.c
+	"tdaLista.h"
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

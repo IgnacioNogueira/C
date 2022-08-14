@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1652327104 source:c:\users\ignac\desktop\archivoscacho\main.c
+	"archivo.h"
+
+1652333133 c:\users\ignac\desktop\archivoscacho\archivo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1652332079 source:c:\users\ignac\desktop\archivoscacho\archivo.c
+	"archivo.h"
+
+1652327104 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\archivoscacho\main.c
+	"archivo.h"
+
+1652333133 c:\users\ignac\desktop\cosas para parcial progra\cachito\archivoscacho\archivo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

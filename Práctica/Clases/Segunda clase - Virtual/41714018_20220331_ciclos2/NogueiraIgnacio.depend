@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1648770315 source:c:\users\ignac\desktop\nogueiraignacio\main.c
+	"header.h"
+
+1648770327 c:\users\ignac\desktop\nogueiraignacio\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1648770970 source:c:\users\ignac\desktop\nogueiraignacio\funciones.c
+	"header.h"
+
+1648770970 source:c:\users\ignac\desktop\nogueiraignacio - copia\funciones.c
+	"header.h"
+
+1648770327 c:\users\ignac\desktop\nogueiraignacio - copia\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1648770315 source:c:\users\ignac\desktop\nogueiraignacio - copia\main.c
+	"header.h"
+
+1648770315 source:c:\users\ignac\desktop\41714018_20220331_ciclos2\main.c
+	"header.h"
+
+1648771464 c:\users\ignac\desktop\41714018_20220331_ciclos2\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1648775002 source:c:\users\ignac\desktop\41714018_20220331_ciclos2\41714018_20220331_ciclos2.c
+	"header.h"
+

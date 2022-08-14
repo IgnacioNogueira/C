@@ -1,0 +1,72 @@
+1. ¿Qué es Java?
+
+Es un lenguaje de programación que nace a principio de los 90,
+creado por James Gosling, con el objetivo de crear un lenguaje de programación que se utilizará en la nueva generación de dispositivos inteligentes. El éxito de Java radicó en la posibilidad de instalar un componente conocido como Applet, en un navegador web y con el boom de internet fue posible extender el concepto en paginas web para comenzar a ejecutar aplicaciones Java en cualquier parte del mundo
+
+2. ¿Cuáles son las principales características de Java?
+
+- Está basado en c y c++
+- Es un lenguaje orientado a objetos simple de utilizar. Polimorfismo, encapsulamiento y herencia. La herencia es simple, es decir que solo se puede hereder de una sola clase a la vez. 
+- Distribuido ya que permite abrir conexiones con servidores o clientes remotos para acceder a las apps instaladas en distintos servidores o equipos.
+- Es multihilos, seguro.
+- Independiente de la plataforma ya que a la hora de crear código, este puede ser ejecutado en cualquier plataforma o sistema operativo. De aquí proviene la frase: write once - run everywhere.
+
+
+3. ¿Qué es el JRE?
+
+Es el Java Runtime Environment, que consiste en la Java Virtual Machine que estará en nuestra computadora, las clases principales y librerías de soporte de la plataforma de Java. En pocas palabras, JRE es todo lo que necesitos para ejecutar un programa en Java y corra en nuestro sistema op.
+
+Caract:
+- Dependiente del sistema
+- Permite que pueda ejecutarse sin cambios en diferentes sistemas.
+
+4. ¿Qué es el JDK?
+Java Development Kit: Es un entorno de desarrollo de software utilizado para desarrollar app y applets de Java. En resúmen es un componente que se ejecuta en el contexto de otro programa.
+
+Caract:
+- Incluye:
+	* JRE
+	* Un interprete (Java)
+	* Un compilador (Javac)
+	* Un archivador (Jar)
+	* Un generador de docu (Javadoc)
+	* Otras herramientas para el funcionamiento de desarr de Java
+
+************* FÓRMULA *************
+ 
+JDK = JRE + herramientas de desarrollo
+
+*************	      *************
+
+
+/// JDK es un subconjunto del SDK (Software development kit)
+
+
+5. Variables y sentencias
+
+Las variables en la mayoría de los casos, pueden ser dinámicas, ya que los valores cambiarán durante la interacción con el usuario y el programa.
+
+Tipos de datos: 
+
+- Primitivos: int, float, boolean
+- Referenciados (Object): Clases, interf, arreglos.
+
+Muestreo de mensajes en consola:
+- Print
+- PrintIn: Muestra con un salto de línea.
+
+
+4. ¿Qué se entiende por sobrecarga de métodos?
+
+Es ofrecer más de una opción de alguno de los métodos definidos en nuestra clase, con el objetivo de brindar más opciones para el uso de nuestros métodos. En resúmen, vos tenés una clase y le podés agregar más métodos para agregarle características.
+
+ej: sumar con parametros int, después con double o mezclados.
+Después si pasas la función en una clase, y querés ejecutar las funciones, vamos a poder sumar los valores en varios tipos de datos, como mencionamos previamente. (Página 21 
+
+5. ¿Qué se entiende por código manejado?
+
+Es el código de un programa que se ejecuta bajo la gestión de una máquina virtual, a diferencia del código no manejado, que es ejecutado directamente por la CPU del ordenador. Las ventajas del código manejado incluyen facilidades para el programador y garantías de seguridad.
+
+6. Nombre alguno de los IDE que se pueden utilizar para desarrollar aplicaciones Java.
+
+Eclipse, Codenvy, Apache NetBeans, BlueJ.

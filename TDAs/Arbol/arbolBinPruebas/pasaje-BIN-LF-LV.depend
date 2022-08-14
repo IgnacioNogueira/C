@@ -1,0 +1,349 @@
+# depslib dependency file v1.0
+1650851322 source:c:\users\eslou\desktop\programacion-2\archivos\pasaje-lf-lv\archivosbasico.c
+	"archivosBasico.h"
+
+1650850748 c:\users\eslou\desktop\programacion-2\archivos\pasaje-lf-lv\archivosbasico.h
+	<stdio.h>
+	"trozadoLFLV.h"
+	"estructuras.h"
+
+1650850079 c:\users\eslou\desktop\programacion-2\archivos\pasaje-lf-lv\trozadolflv.h
+	<stdio.h>
+	<string.h>
+	"estructuras.h"
+
+1650850153 c:\users\eslou\desktop\programacion-2\archivos\pasaje-lf-lv\estructuras.h
+
+1650851121 source:c:\users\eslou\desktop\programacion-2\archivos\pasaje-lf-lv\main.c
+	"main.h"
+
+1650850503 c:\users\eslou\desktop\programacion-2\archivos\pasaje-lf-lv\main.h
+	"archivosBasico.h"
+	"pasajeBinText.h"
+
+1650850183 c:\users\eslou\desktop\programacion-2\archivos\pasaje-lf-lv\pasajebintext.h
+	"archivosBasico.h"
+
+1650849615 source:c:\users\eslou\desktop\programacion-2\archivos\pasaje-lf-lv\pasajebintext.c
+	"pasajeBinText.h"
+
+1650849856 source:c:\users\eslou\desktop\programacion-2\archivos\pasaje-lf-lv\trozadolflv.c
+	"trozadoLFLV.h"
+
+1650851322 source:c:\users\eslou\desktop\programacion-2\archivos\pasaje-bin-lf-lv\archivosbasico.c
+	"archivosBasico.h"
+
+1650850748 c:\users\eslou\desktop\programacion-2\archivos\pasaje-bin-lf-lv\archivosbasico.h
+	<stdio.h>
+	"trozadoLFLV.h"
+	"estructuras.h"
+
+1650850079 c:\users\eslou\desktop\programacion-2\archivos\pasaje-bin-lf-lv\trozadolflv.h
+	<stdio.h>
+	<string.h>
+	"estructuras.h"
+
+1650850153 c:\users\eslou\desktop\programacion-2\archivos\pasaje-bin-lf-lv\estructuras.h
+
+1650851121 source:c:\users\eslou\desktop\programacion-2\archivos\pasaje-bin-lf-lv\main.c
+	"main.h"
+
+1650850503 c:\users\eslou\desktop\programacion-2\archivos\pasaje-bin-lf-lv\main.h
+	"archivosBasico.h"
+	"pasajeBinText.h"
+
+1650850183 c:\users\eslou\desktop\programacion-2\archivos\pasaje-bin-lf-lv\pasajebintext.h
+	"archivosBasico.h"
+
+1650849615 source:c:\users\eslou\desktop\programacion-2\archivos\pasaje-bin-lf-lv\pasajebintext.c
+	"pasajeBinText.h"
+
+1650849856 source:c:\users\eslou\desktop\programacion-2\archivos\pasaje-bin-lf-lv\trozadolflv.c
+	"trozadoLFLV.h"
+
+1650851322 source:c:\users\eslou\desktop\programacion-2\tdas\arbolbin\archivosbasico.c
+	"archivosBasico.h"
+
+1650850748 c:\users\eslou\desktop\programacion-2\tdas\arbolbin\archivosbasico.h
+	<stdio.h>
+	"trozadoLFLV.h"
+	"estructuras.h"
+
+1653450806 c:\users\eslou\desktop\programacion-2\tdas\arbolbin\trozadolflv.h
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"estructuras.h"
+
+1650850153 c:\users\eslou\desktop\programacion-2\tdas\arbolbin\estructuras.h
+
+1650849615 source:c:\users\eslou\desktop\programacion-2\tdas\arbolbin\pasajebintext.c
+	"pasajeBinText.h"
+
+1650850183 c:\users\eslou\desktop\programacion-2\tdas\arbolbin\pasajebintext.h
+	"archivosBasico.h"
+
+1653451059 source:c:\users\eslou\desktop\programacion-2\tdas\arbolbin\trozadolflv.c
+	"trozadoLFLV.h"
+
+1653450839 source:c:\users\eslou\desktop\programacion-2\tdas\arbolbin\main.c
+	"main.h"
+
+1650850503 c:\users\eslou\desktop\programacion-2\tdas\arbolbin\main.h
+	"archivosBasico.h"
+	"pasajeBinText.h"
+
+1653500846 source:c:\users\eslou\desktop\programacion-2\tdas\arbolbinpruebas\archivosbasico.c
+	"archivosBasico.h"
+
+1653496654 c:\users\eslou\desktop\programacion-2\tdas\arbolbinpruebas\archivosbasico.h
+	<stdio.h>
+	"trozadoLFLV.h"
+	"estructuras.h"
+
+1653450806 c:\users\eslou\desktop\programacion-2\tdas\arbolbinpruebas\trozadolflv.h
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"estructuras.h"
+
+1650850153 c:\users\eslou\desktop\programacion-2\tdas\arbolbinpruebas\estructuras.h
+
+1653497347 source:c:\users\eslou\desktop\programacion-2\tdas\arbolbinpruebas\main.c
+	"main.h"
+
+1653496272 c:\users\eslou\desktop\programacion-2\tdas\arbolbinpruebas\main.h
+	"archivosBasico.h"
+	"pasajeBinText.h"
+	"arbol.h"
+	"probarArbol.h"
+
+1650850183 c:\users\eslou\desktop\programacion-2\tdas\arbolbinpruebas\pasajebintext.h
+	"archivosBasico.h"
+
+1650849615 source:c:\users\eslou\desktop\programacion-2\tdas\arbolbinpruebas\pasajebintext.c
+	"pasajeBinText.h"
+
+1653451059 source:c:\users\eslou\desktop\programacion-2\tdas\arbolbinpruebas\trozadolflv.c
+	"trozadoLFLV.h"
+
+1653502382 source:c:\users\eslou\desktop\programacion-2\tdas\arbolbinpruebas\arbol.c
+	"arbol.h"
+
+1653496748 c:\users\eslou\desktop\programacion-2\tdas\arbolbinpruebas\arbol.h
+	<string.h>
+	<stdlib.h>
+
+1653502328 source:c:\users\eslou\desktop\programacion-2\tdas\arbolbinpruebas\probararbol.c
+	"probarArbol.h"
+
+1653496154 c:\users\eslou\desktop\programacion-2\tdas\arbolbinpruebas\probararbol.h
+	"archivosBasico.h"
+	"arbol.h"
+	"estructuras.h"
+
+1656008466 source:e:\programacion-2\tdas\arbolbinpruebas\arbol.c
+	"arbol.h"
+
+1656008664 e:\programacion-2\tdas\arbolbinpruebas\arbol.h
+	<string.h>
+	<stdlib.h>
+
+1654554180 source:e:\programacion-2\tdas\arbolbinpruebas\archivosbasico.c
+	"archivosBasico.h"
+
+1653496656 e:\programacion-2\tdas\arbolbinpruebas\archivosbasico.h
+	<stdio.h>
+	"trozadoLFLV.h"
+	"estructuras.h"
+
+1653450808 e:\programacion-2\tdas\arbolbinpruebas\trozadolflv.h
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"estructuras.h"
+
+1650850154 e:\programacion-2\tdas\arbolbinpruebas\estructuras.h
+
+1654563384 source:e:\programacion-2\tdas\arbolbinpruebas\main.c
+	"main.h"
+
+1653496274 e:\programacion-2\tdas\arbolbinpruebas\main.h
+	"archivosBasico.h"
+	"pasajeBinText.h"
+	"arbol.h"
+	"probarArbol.h"
+
+1650850184 e:\programacion-2\tdas\arbolbinpruebas\pasajebintext.h
+	"archivosBasico.h"
+
+1655169270 e:\programacion-2\tdas\arbolbinpruebas\probararbol.h
+	"archivosBasico.h"
+	"arbol.h"
+	"estructuras.h"
+	<string.h>
+
+1655159878 source:e:\programacion-2\tdas\arbolbinpruebas\pasajebintext.c
+	"pasajeBinText.h"
+
+1656014192 source:e:\programacion-2\tdas\arbolbinpruebas\probararbol.c
+	"probarArbol.h"
+	"arbol.h"
+
+1653451060 source:e:\programacion-2\tdas\arbolbinpruebas\trozadolflv.c
+	"trozadoLFLV.h"
+
+1654554180 source:d:\programacion-2\tdas\arbolbinpruebas\archivosbasico.c
+	"archivosBasico.h"
+
+1653496656 d:\programacion-2\tdas\arbolbinpruebas\archivosbasico.h
+	<stdio.h>
+	"trozadoLFLV.h"
+	"estructuras.h"
+
+1653450808 d:\programacion-2\tdas\arbolbinpruebas\trozadolflv.h
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"estructuras.h"
+
+1650850154 d:\programacion-2\tdas\arbolbinpruebas\estructuras.h
+
+1654563384 source:d:\programacion-2\tdas\arbolbinpruebas\main.c
+	"main.h"
+
+1653496274 d:\programacion-2\tdas\arbolbinpruebas\main.h
+	"archivosBasico.h"
+	"pasajeBinText.h"
+	"arbol.h"
+	"probarArbol.h"
+
+1650850184 d:\programacion-2\tdas\arbolbinpruebas\pasajebintext.h
+	"archivosBasico.h"
+
+1656008664 d:\programacion-2\tdas\arbolbinpruebas\arbol.h
+	<string.h>
+	<stdlib.h>
+
+1655169270 d:\programacion-2\tdas\arbolbinpruebas\probararbol.h
+	"archivosBasico.h"
+	"arbol.h"
+	"estructuras.h"
+	<string.h>
+
+1655159878 source:d:\programacion-2\tdas\arbolbinpruebas\pasajebintext.c
+	"pasajeBinText.h"
+
+1656008638 source:d:\programacion-2\tdas\arbolbinpruebas\probararbol.c
+	"probarArbol.h"
+	"arbol.h"
+
+1653451060 source:d:\programacion-2\tdas\arbolbinpruebas\trozadolflv.c
+	"trozadoLFLV.h"
+
+1656008466 source:d:\programacion-2\tdas\arbolbinpruebas\arbol.c
+	"arbol.h"
+
+1656703816 source:f:\programacion-2\tdas\arbolbinpruebas\archivosbasico.c
+	"archivosBasico.h"
+
+1653496656 f:\programacion-2\tdas\arbolbinpruebas\archivosbasico.h
+	<stdio.h>
+	"trozadoLFLV.h"
+	"estructuras.h"
+
+1653450808 f:\programacion-2\tdas\arbolbinpruebas\trozadolflv.h
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"estructuras.h"
+
+1650850154 f:\programacion-2\tdas\arbolbinpruebas\estructuras.h
+
+1654563384 source:f:\programacion-2\tdas\arbolbinpruebas\main.c
+	"main.h"
+
+1653496274 f:\programacion-2\tdas\arbolbinpruebas\main.h
+	"archivosBasico.h"
+	"pasajeBinText.h"
+	"arbol.h"
+	"probarArbol.h"
+
+1650850184 f:\programacion-2\tdas\arbolbinpruebas\pasajebintext.h
+	"archivosBasico.h"
+
+1656703608 f:\programacion-2\tdas\arbolbinpruebas\arbol.h
+	<string.h>
+	<stdlib.h>
+
+1655169270 f:\programacion-2\tdas\arbolbinpruebas\probararbol.h
+	"archivosBasico.h"
+	"arbol.h"
+	"estructuras.h"
+	<string.h>
+
+1655159878 source:f:\programacion-2\tdas\arbolbinpruebas\pasajebintext.c
+	"pasajeBinText.h"
+
+1653451060 source:f:\programacion-2\tdas\arbolbinpruebas\trozadolflv.c
+	"trozadoLFLV.h"
+
+1656704168 source:f:\programacion-2\tdas\arbolbinpruebas\probararbol.c
+	"probarArbol.h"
+	"arbol.h"
+
+1656703626 source:f:\programacion-2\tdas\arbolbinpruebas\arbol.c
+	"arbol.h"
+
+1656703816 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\arbol\arbolbinpruebas\archivosbasico.c
+	"archivosBasico.h"
+
+1653496656 c:\users\ignac\desktop\cosas para parcial progra\cachito\arbol\arbolbinpruebas\archivosbasico.h
+	<stdio.h>
+	"trozadoLFLV.h"
+	"estructuras.h"
+
+1653450808 c:\users\ignac\desktop\cosas para parcial progra\cachito\arbol\arbolbinpruebas\trozadolflv.h
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"estructuras.h"
+
+1650850154 c:\users\ignac\desktop\cosas para parcial progra\cachito\arbol\arbolbinpruebas\estructuras.h
+
+1654563384 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\arbol\arbolbinpruebas\main.c
+	"main.h"
+
+1653496274 c:\users\ignac\desktop\cosas para parcial progra\cachito\arbol\arbolbinpruebas\main.h
+	"archivosBasico.h"
+	"pasajeBinText.h"
+	"arbol.h"
+	"probarArbol.h"
+
+1650850184 c:\users\ignac\desktop\cosas para parcial progra\cachito\arbol\arbolbinpruebas\pasajebintext.h
+	"archivosBasico.h"
+
+1656708447 c:\users\ignac\desktop\cosas para parcial progra\cachito\arbol\arbolbinpruebas\arbol.h
+	<string.h>
+	<stdlib.h>
+	"estructuras.h"
+
+1655169270 c:\users\ignac\desktop\cosas para parcial progra\cachito\arbol\arbolbinpruebas\probararbol.h
+	"archivosBasico.h"
+	"arbol.h"
+	"estructuras.h"
+	<string.h>
+
+1655159878 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\arbol\arbolbinpruebas\pasajebintext.c
+	"pasajeBinText.h"
+
+1653451060 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\arbol\arbolbinpruebas\trozadolflv.c
+	"trozadoLFLV.h"
+
+1656941030 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\arbol\arbolbinpruebas\arbol.c
+	"arbol.h"
+
+1656709509 source:c:\users\ignac\desktop\cosas para parcial progra\cachito\arbol\arbolbinpruebas\probararbol.c
+	"probarArbol.h"
+	"arbol.h"
+

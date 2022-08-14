@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1650855283 source:c:\users\ignac\desktop\41714018_20220407__busqueda_vector\41714018_20220407__busqueda_vector.c
+	"header.h"
+
+1650854735 c:\users\ignac\desktop\41714018_20220407__busqueda_vector\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1650855295 source:c:\users\ignac\desktop\41714018_20220407__busqueda_vector\main.c
+	"header.h"
+
