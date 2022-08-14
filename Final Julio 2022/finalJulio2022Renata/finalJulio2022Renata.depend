@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1658633026 source:c:\users\ignac\desktop\finales progra\final julio 2022\finaljulio2022renata\funciones.c
+	"funciones.h"
+
+1658630263 c:\users\ignac\desktop\finales progra\final julio 2022\finaljulio2022renata\funciones.h
+	"main.h"
+	"tdaListaSimple.h"
+	"Utils.h"
+
+1658632943 c:\users\ignac\desktop\finales progra\final julio 2022\finaljulio2022renata\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1658628103 c:\users\ignac\desktop\finales progra\final julio 2022\finaljulio2022renata\tdalistasimple.h
+	"main.h"
+	"tdaDefiniciones.h"
+
+1658626156 c:\users\ignac\desktop\finales progra\final julio 2022\finaljulio2022renata\tdadefiniciones.h
+
+1658628116 c:\users\ignac\desktop\finales progra\final julio 2022\finaljulio2022renata\utils.h
+	"main.h"
+
+1658785572 source:c:\users\ignac\desktop\finales progra\final julio 2022\finaljulio2022renata\main.c
+	"main.h"
+	"tdaArbol.h"
+	"tdaListaSimple.h"
+	"funciones.h"
+	"Utils.h"
+
+1658626003 c:\users\ignac\desktop\finales progra\final julio 2022\finaljulio2022renata\tdaarbol.h
+	"main.h"
+	"tdaDefiniciones.h"
+
+1658618215 source:c:\users\ignac\desktop\finales progra\final julio 2022\finaljulio2022renata\tdaarbol.c
+	"tdaArbol.h"
+
+1658634558 source:c:\users\ignac\desktop\finales progra\final julio 2022\finaljulio2022renata\tdalistasimple.c
+	"tdaListaSimple.h"
+
+1658628084 source:c:\users\ignac\desktop\finales progra\final julio 2022\finaljulio2022renata\utils.c
+	"Utils.h"
+

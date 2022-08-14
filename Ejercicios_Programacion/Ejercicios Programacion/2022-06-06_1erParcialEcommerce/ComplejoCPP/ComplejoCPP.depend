@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1654515293 source:c:\users\laboratorios\desktop\fernandez rocio belen\2022-06-06_1erparcialecommerce\complejocpp\complejo.cpp
+	"Complejo.h"
+
+1654515288 c:\users\laboratorios\desktop\fernandez rocio belen\2022-06-06_1erparcialecommerce\complejocpp\complejo.h
+	<iostream>
+
+1654514258 source:c:\users\laboratorios\desktop\fernandez rocio belen\2022-06-06_1erparcialecommerce\complejocpp\main.cpp
+	<iostream>
+	"Complejo.h"
+
+1654515293 source:c:\users\laboratorios\desktop\fernandez_rociobelen\2022-06-06_1erparcialecommerce\complejocpp\complejo.cpp
+	"Complejo.h"
+
+1654521960 c:\users\laboratorios\desktop\fernandez_rociobelen\2022-06-06_1erparcialecommerce\complejocpp\complejo.h
+	<iostream>
+
+1654522020 source:c:\users\laboratorios\desktop\fernandez_rociobelen\2022-06-06_1erparcialecommerce\complejocpp\main.cpp
+	<iostream>
+	"Complejo.h"
+

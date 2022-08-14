@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="2doParcialPatentes" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/2doParcialPatentes" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option parameters="FacturasAutomotor.dat Parche.dat FacturasInexistentes.dat" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="lib/libSolucionPatentes.a" />
+					<Add library="lib/libTDAArbolImplDinamica.a" />
+					<Add library="lib/libTDAListaImplDinamicaDoble.a" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/2doParcialPatentes" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="../include" />
+		</Compiler>
+		<Linker>
+			<Add directory="../lib" />
+		</Linker>
+		<Unit filename="../Comun/Comun.h" />
+		<Unit filename="../Nodo/NodoA.h" />
+		<Unit filename="../Nodo/NodoD.h" />
+		<Unit filename="../SolucionPatentes/SolucionPatentes.h" />
+		<Unit filename="../TDAArbolImplDinamica/TDAArbolImplDinamica.h" />
+		<Unit filename="../TDAArbol/TDAArbol.h" />
+		<Unit filename="../TDAListaImplDinamicaDoble/TDAListaImplDinamicaDoble.h" />
+		<Unit filename="../TDALista/TDALista.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

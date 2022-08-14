@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1657729513 source:c:\users\ignac\desktop\finarrenataoctubre\main.c
+	"main.h"
+	"funciones.h"
+	"utils.h"
+
+1657729520 c:\users\ignac\desktop\finarrenataoctubre\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1657681065 source:c:\users\ignac\desktop\finarrenataoctubre\tdalistasimple.c
+	"tdaListaSimple.h"
+
+1657667608 c:\users\ignac\desktop\finarrenataoctubre\tdalistasimple.h
+	"main.h"
+
+1657729400 source:c:\users\ignac\desktop\finarrenataoctubre\utils.c
+	"utils.h"
+
+1657729451 c:\users\ignac\desktop\finarrenataoctubre\utils.h
+	"main.h"
+
+1657729343 source:c:\users\ignac\desktop\finarrenataoctubre\funciones.c
+	"funciones.h"
+
+1657729455 c:\users\ignac\desktop\finarrenataoctubre\funciones.h
+	"main.h"
+	"utils.h"
+

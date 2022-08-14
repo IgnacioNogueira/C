@@ -1,0 +1,3 @@
+A|ABB|8
+A|ABC|18
+B|ABB|5

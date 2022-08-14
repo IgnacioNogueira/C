@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1657729343 source:c:\users\ignac\desktop\finales progra\final febrero\finarrenatafebrero\funciones.c
+	"funciones.h"
+
+1657729455 c:\users\ignac\desktop\finales progra\final febrero\finarrenatafebrero\funciones.h
+	"main.h"
+	"utils.h"
+
+1657833348 c:\users\ignac\desktop\finales progra\final febrero\finarrenatafebrero\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1657729451 c:\users\ignac\desktop\finales progra\final febrero\finarrenatafebrero\utils.h
+	"main.h"
+
+1657729513 source:c:\users\ignac\desktop\finales progra\final febrero\finarrenatafebrero\main.c
+	"main.h"
+	"funciones.h"
+	"utils.h"
+
+1657681065 source:c:\users\ignac\desktop\finales progra\final febrero\finarrenatafebrero\tdalistasimple.c
+	"tdaListaSimple.h"
+
+1657667608 c:\users\ignac\desktop\finales progra\final febrero\finarrenatafebrero\tdalistasimple.h
+	"main.h"
+
+1657729400 source:c:\users\ignac\desktop\finales progra\final febrero\finarrenatafebrero\utils.c
+	"utils.h"
+

@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1658521404 source:d:\2º año\2º cuatrimestre\programacion\ejercicios resueltos\clases 2022\final\modelos\final_marzo\funciones.c
+	"Funciones.h"
+
+1658521085 d:\2º año\2º cuatrimestre\programacion\ejercicios resueltos\clases 2022\final\modelos\final_marzo\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"PilaDinamica.h"
+
+1658355713 d:\2º año\2º cuatrimestre\programacion\ejercicios resueltos\clases 2022\final\modelos\final_marzo\piladinamica.h
+	<stdlib.h>
+	<string.h>
+
+1658358541 source:d:\2º año\2º cuatrimestre\programacion\ejercicios resueltos\clases 2022\final\modelos\final_marzo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1658357208 source:d:\2º año\2º cuatrimestre\programacion\ejercicios resueltos\clases 2022\final\modelos\final_marzo\piladinamica.c
+	"PilaDinamica.h"
+
+1658358157 source:c:\users\rocio\desktop\final_marzo\funciones.c
+	"Funciones.h"
+
+1658356479 c:\users\rocio\desktop\final_marzo\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"PilaDinamica.h"
+
+1658355713 c:\users\rocio\desktop\final_marzo\piladinamica.h
+	<stdlib.h>
+	<string.h>
+
+1658356969 source:c:\users\rocio\desktop\final_marzo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1658357208 source:c:\users\rocio\desktop\final_marzo\piladinamica.c
+	"PilaDinamica.h"
+
+1658521404 source:d:\2º año\2º cuatrimestre\programación\ejercicios resueltos\clases 2022\final\modelos\final marzo\funciones.c
+	"Funciones.h"
+
+1658521085 d:\2º año\2º cuatrimestre\programación\ejercicios resueltos\clases 2022\final\modelos\final marzo\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"PilaDinamica.h"
+
+1658355713 d:\2º año\2º cuatrimestre\programación\ejercicios resueltos\clases 2022\final\modelos\final marzo\piladinamica.h
+	<stdlib.h>
+	<string.h>
+
+1658358541 source:d:\2º año\2º cuatrimestre\programación\ejercicios resueltos\clases 2022\final\modelos\final marzo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1658357208 source:d:\2º año\2º cuatrimestre\programación\ejercicios resueltos\clases 2022\final\modelos\final marzo\piladinamica.c
+	"PilaDinamica.h"
+
+1658700329 source:c:\users\ignac\desktop\finales progra\ejercicios_programacion\ejercicios programacion\final marzo\funciones.c
+	"Funciones.h"
+
+1658521086 c:\users\ignac\desktop\finales progra\ejercicios_programacion\ejercicios programacion\final marzo\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"PilaDinamica.h"
+
+1658355714 c:\users\ignac\desktop\finales progra\ejercicios_programacion\ejercicios programacion\final marzo\piladinamica.h
+	<stdlib.h>
+	<string.h>
+
+1658698311 source:c:\users\ignac\desktop\finales progra\ejercicios_programacion\ejercicios programacion\final marzo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1658357210 source:c:\users\ignac\desktop\finales progra\ejercicios_programacion\ejercicios programacion\final marzo\piladinamica.c
+	"PilaDinamica.h"
+

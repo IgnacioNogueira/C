@@ -1,0 +1,7 @@
+Nivel	Descuento	Tope descuento	Envio gratis
+1	10	200	5000
+2	20	450	4500
+3	30	500	4500
+4	35	600	4000
+5	40	650	3500
+6	45	700	3000

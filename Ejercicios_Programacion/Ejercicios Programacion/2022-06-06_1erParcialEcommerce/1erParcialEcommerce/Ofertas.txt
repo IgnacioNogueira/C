@@ -1,0 +1,10 @@
+pepe100
+	noteHp15          40000.00	Si
+	monitorSam27      30000.00	Si
+	impresoraLaser    10000.00	Si
+	parlantesHp        4999.00	Si
+	tecladoLogitech     999.00	Si
+	mesaVintage       50000.00	Si
+	sillonGamer       30000.00	Si
+	sillaErgono       25000.00	Si
+	mouseNoga          4200.00	Si

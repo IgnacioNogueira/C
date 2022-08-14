@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1658636562 source:c:\users\ignac\desktop\figurageometricarenatajunio2022\main.cpp
+	"FiguraGeometrica.h"
+	"Cuadrado.h"
+	"Circulo.h"
+
+1658635611 c:\users\ignac\desktop\figurageometricarenatajunio2022\figurageometrica.h
+	<iostream>
+	<string>
+
+1658635125 source:c:\users\ignac\desktop\figurageometricarenatajunio2022\figurageometrica.cpp
+	"FiguraGeometrica.h"
+
+1658636713 source:c:\users\ignac\desktop\figurageometricarenatajunio2022\cuadrado.cpp
+	"Cuadrado.h"
+
+1658636654 c:\users\ignac\desktop\figurageometricarenatajunio2022\cuadrado.h
+	"FiguraGeometrica.h"
+
+1658636660 source:c:\users\ignac\desktop\figurageometricarenatajunio2022\circulo.cpp
+	"Circulo.h"
+
+1658636713 c:\users\ignac\desktop\figurageometricarenatajunio2022\circulo.h
+	"FiguraGeometrica.h"
+
+1658944849 source:c:\users\ignac\desktop\figurageometricarenatajulio2022\circulo.cpp
+	"Circulo.h"
+
+1658944721 c:\users\ignac\desktop\figurageometricarenatajulio2022\circulo.h
+	"FiguraGeometrica.h"
+	"excepcionValorNegativoException.h"
+
+1658939913 c:\users\ignac\desktop\figurageometricarenatajulio2022\figurageometrica.h
+	<iostream>
+	<string>
+
+1658635125 source:c:\users\ignac\desktop\figurageometricarenatajulio2022\figurageometrica.cpp
+	"FiguraGeometrica.h"
+
+1658944684 source:c:\users\ignac\desktop\figurageometricarenatajulio2022\main.cpp
+	"FiguraGeometrica.h"
+	"Cuadrado.h"
+	"Circulo.h"
+	"excepcionValorNegativoException.h"
+
+1658940104 c:\users\ignac\desktop\figurageometricarenatajulio2022\cuadrado.h
+	"FiguraGeometrica.h"
+
+1658940148 source:c:\users\ignac\desktop\figurageometricarenatajulio2022\cuadrado.cpp
+	"Cuadrado.h"
+
+1658944602 source:c:\users\ignac\desktop\figurageometricarenatajulio2022\excepcionvalornegativoexception.cpp
+	"excepcionValorNegativoException.h"
+
+1658944573 c:\users\ignac\desktop\figurageometricarenatajulio2022\excepcionvalornegativoexception.h
+	<exception>
+

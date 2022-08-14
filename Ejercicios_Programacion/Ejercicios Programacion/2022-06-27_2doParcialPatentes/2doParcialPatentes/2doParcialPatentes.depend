@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1656341792 source:c:\users\laboratorios\desktop\fernandez_rocio\2doparcialpatentes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../SolucionPatentes/SolucionPatentes.h"
+	"../TDAArbol/TDAArbol.h"
+	"../TDALista/TDALista.h"
+
+1656276276 c:\users\laboratorios\desktop\fernandez_rocio\solucionpatentes\solucionpatentes.h
+	"../TDAArbol/TDAArbol.h"
+	"../TDALista/TDALista.h"
+
+1656276101 c:\users\laboratorios\desktop\fernandez_rocio\tdaarbol\tdaarbol.h
+	"../Comun/Comun.h"
+	"../TDAArbolImplDinamica/TDAArbolImplDinamica.h"
+
+1653648805 c:\users\laboratorios\desktop\fernandez_rocio\comun\comun.h
+
+1653648805 c:\users\laboratorios\desktop\fernandez_rocio\tdaarbolimpldinamica\tdaarbolimpldinamica.h
+	"../Nodo/NodoA.h"
+
+1653648805 c:\users\laboratorios\desktop\fernandez_rocio\nodo\nodoa.h
+	<stddef.h>
+
+1653648805 c:\users\laboratorios\desktop\fernandez_rocio\tdalista\tdalista.h
+	"../Comun/Comun.h"
+	"../TDAListaImplDinamica/TDAListaImplDinamica.h"
+	"../TDAListaImplDinamicaDoble/TDAListaImplDinamicaDoble.h"
+
+1653648805 c:\users\laboratorios\desktop\fernandez_rocio\tdalistaimpldinamicadoble\tdalistaimpldinamicadoble.h
+	"../Nodo/NodoD.h"
+
+1653648805 c:\users\laboratorios\desktop\fernandez_rocio\nodo\nodod.h
+	<stddef.h>
+
+1658192654 source:d:\2º año\2º cuatrimestre\programacion\parciales primer cuatrimestre 2022\segundo parcial\fernandez_rocio\2doparcialpatentes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../SolucionPatentes/SolucionPatentes.h"
+	"../TDAArbol/TDAArbol.h"
+	"../TDALista/TDALista.h"
+
+1656276276 d:\2º año\2º cuatrimestre\programacion\parciales primer cuatrimestre 2022\segundo parcial\fernandez_rocio\solucionpatentes\solucionpatentes.h
+	"../TDAArbol/TDAArbol.h"
+	"../TDALista/TDALista.h"
+
+1656276101 d:\2º año\2º cuatrimestre\programacion\parciales primer cuatrimestre 2022\segundo parcial\fernandez_rocio\tdaarbol\tdaarbol.h
+	"../Comun/Comun.h"
+	"../TDAArbolImplDinamica/TDAArbolImplDinamica.h"
+
+1653648805 d:\2º año\2º cuatrimestre\programacion\parciales primer cuatrimestre 2022\segundo parcial\fernandez_rocio\comun\comun.h
+
+1653648805 d:\2º año\2º cuatrimestre\programacion\parciales primer cuatrimestre 2022\segundo parcial\fernandez_rocio\tdaarbolimpldinamica\tdaarbolimpldinamica.h
+	"../Nodo/NodoA.h"
+
+1653648805 d:\2º año\2º cuatrimestre\programacion\parciales primer cuatrimestre 2022\segundo parcial\fernandez_rocio\nodo\nodoa.h
+	<stddef.h>
+
+1653648805 d:\2º año\2º cuatrimestre\programacion\parciales primer cuatrimestre 2022\segundo parcial\fernandez_rocio\tdalista\tdalista.h
+	"../Comun/Comun.h"
+	"../TDAListaImplDinamica/TDAListaImplDinamica.h"
+	"../TDAListaImplDinamicaDoble/TDAListaImplDinamicaDoble.h"
+
+1653648805 d:\2º año\2º cuatrimestre\programacion\parciales primer cuatrimestre 2022\segundo parcial\fernandez_rocio\tdalistaimpldinamicadoble\tdalistaimpldinamicadoble.h
+	"../Nodo/NodoD.h"
+
+1653648805 d:\2º año\2º cuatrimestre\programacion\parciales primer cuatrimestre 2022\segundo parcial\fernandez_rocio\nodo\nodod.h
+	<stddef.h>
+
+1658201075 source:c:\users\rocio\desktop\fernandez_rocio\2doparcialpatentes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../SolucionPatentes/SolucionPatentes.h"
+	"../TDAArbol/TDAArbol.h"
+	"../TDALista/TDALista.h"
+
+1656276276 c:\users\rocio\desktop\fernandez_rocio\solucionpatentes\solucionpatentes.h
+	"../TDAArbol/TDAArbol.h"
+	"../TDALista/TDALista.h"
+
+1656276101 c:\users\rocio\desktop\fernandez_rocio\tdaarbol\tdaarbol.h
+	"../Comun/Comun.h"
+	"../TDAArbolImplDinamica/TDAArbolImplDinamica.h"
+
+1653648805 c:\users\rocio\desktop\fernandez_rocio\comun\comun.h
+
+1653648805 c:\users\rocio\desktop\fernandez_rocio\tdaarbolimpldinamica\tdaarbolimpldinamica.h
+	"../Nodo/NodoA.h"
+
+1653648805 c:\users\rocio\desktop\fernandez_rocio\nodo\nodoa.h
+	<stddef.h>
+
+1653648805 c:\users\rocio\desktop\fernandez_rocio\tdalista\tdalista.h
+	"../Comun/Comun.h"
+	"../TDAListaImplDinamica/TDAListaImplDinamica.h"
+	"../TDAListaImplDinamicaDoble/TDAListaImplDinamicaDoble.h"
+
+1653648805 c:\users\rocio\desktop\fernandez_rocio\tdalistaimpldinamicadoble\tdalistaimpldinamicadoble.h
+	"../Nodo/NodoD.h"
+
+1653648805 c:\users\rocio\desktop\fernandez_rocio\nodo\nodod.h
+	<stddef.h>
+

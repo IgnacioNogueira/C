@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1658604534 source:d:\2º año\2º cuatrimestre\programación\ejercicios resueltos\clases 2022\final\modelos\final julio c++\circulo.cpp
+	"Circulo.h"
+
+1658605208 d:\2º año\2º cuatrimestre\programación\ejercicios resueltos\clases 2022\final\modelos\final julio c++\circulo.h
+	"FiguraGeometrica.h"
+	<cmath>
+
+1658604471 d:\2º año\2º cuatrimestre\programación\ejercicios resueltos\clases 2022\final\modelos\final julio c++\figurageometrica.h
+	<iostream>
+	<string>
+
+1658604534 source:d:\2º año\2º cuatrimestre\programación\ejercicios resueltos\clases 2022\final\modelos\final julio c++\cuadrado.cpp
+	"Cuadrado.h"
+
+1658605208 d:\2º año\2º cuatrimestre\programación\ejercicios resueltos\clases 2022\final\modelos\final julio c++\cuadrado.h
+	"FiguraGeometrica.h"
+
+1658604534 source:d:\2º año\2º cuatrimestre\programación\ejercicios resueltos\clases 2022\final\modelos\final julio c++\figurageometrica.cpp
+	"FiguraGeometrica.h"
+
+1658604534 source:d:\2º año\2º cuatrimestre\programación\ejercicios resueltos\clases 2022\final\modelos\final julio c++\main.cpp
+	<iostream>
+	"FiguraGeometrica.h"
+	"Cuadrado.h"
+	"Circulo.h"
+
+1658604536 source:c:\users\ignac\desktop\ejercicios_programacion\ejercicios programacion\final julio c++\circulo.cpp
+	"Circulo.h"
+
+1658605210 c:\users\ignac\desktop\ejercicios_programacion\ejercicios programacion\final julio c++\circulo.h
+	"FiguraGeometrica.h"
+	<cmath>
+
+1658604472 c:\users\ignac\desktop\ejercicios_programacion\ejercicios programacion\final julio c++\figurageometrica.h
+	<iostream>
+	<string>
+
+1658604536 source:c:\users\ignac\desktop\ejercicios_programacion\ejercicios programacion\final julio c++\cuadrado.cpp
+	"Cuadrado.h"
+
+1658605210 c:\users\ignac\desktop\ejercicios_programacion\ejercicios programacion\final julio c++\cuadrado.h
+	"FiguraGeometrica.h"
+
+1658604536 source:c:\users\ignac\desktop\ejercicios_programacion\ejercicios programacion\final julio c++\figurageometrica.cpp
+	"FiguraGeometrica.h"
+
+1658604536 source:c:\users\ignac\desktop\ejercicios_programacion\ejercicios programacion\final julio c++\main.cpp
+	<iostream>
+	"FiguraGeometrica.h"
+	"Cuadrado.h"
+	"Circulo.h"
+

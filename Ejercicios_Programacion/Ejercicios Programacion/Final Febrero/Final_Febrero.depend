@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1658450552 source:d:\2º año\2º cuatrimestre\programacion\ejercicios resueltos\clases 2022\final\modelos\final_febrero\funciones.c
+	"Funciones.h"
+
+1658444628 d:\2º año\2º cuatrimestre\programacion\ejercicios resueltos\clases 2022\final\modelos\final_febrero\funciones.h
+	"ListaDinamicaSimple.h"
+
+1658446504 d:\2º año\2º cuatrimestre\programacion\ejercicios resueltos\clases 2022\final\modelos\final_febrero\listadinamicasimple.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1658450552 source:d:\2º año\2º cuatrimestre\programacion\ejercicios resueltos\clases 2022\final\modelos\final_febrero\listadinamicasimple.c
+	"ListaDinamicaSimple.h"
+
+1658449185 source:d:\2º año\2º cuatrimestre\programacion\ejercicios resueltos\clases 2022\final\modelos\final_febrero\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1658449141 source:c:\users\rocio\desktop\final_febrero\funciones.c
+	"Funciones.h"
+
+1658444628 c:\users\rocio\desktop\final_febrero\funciones.h
+	"ListaDinamicaSimple.h"
+
+1658446504 c:\users\rocio\desktop\final_febrero\listadinamicasimple.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1658446504 source:c:\users\rocio\desktop\final_febrero\listadinamicasimple.c
+	"ListaDinamicaSimple.h"
+
+1658449185 source:c:\users\rocio\desktop\final_febrero\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1658450554 source:c:\users\ignac\desktop\finales progra\ejercicios_programacion\ejercicios programacion\final febrero\funciones.c
+	"Funciones.h"
+
+1658444630 c:\users\ignac\desktop\finales progra\ejercicios_programacion\ejercicios programacion\final febrero\funciones.h
+	"ListaDinamicaSimple.h"
+
+1658446506 c:\users\ignac\desktop\finales progra\ejercicios_programacion\ejercicios programacion\final febrero\listadinamicasimple.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1658450554 source:c:\users\ignac\desktop\finales progra\ejercicios_programacion\ejercicios programacion\final febrero\listadinamicasimple.c
+	"ListaDinamicaSimple.h"
+
+1658449186 source:c:\users\ignac\desktop\finales progra\ejercicios_programacion\ejercicios programacion\final febrero\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+

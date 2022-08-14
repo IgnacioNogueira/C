@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1657584790 source:c:\users\ignac\desktop\finalrenatadiciembre2021\funciones.c
+	"funciones.h"
+
+1657576990 c:\users\ignac\desktop\finalrenatadiciembre2021\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1657584476 source:c:\users\ignac\desktop\finalrenatadiciembre2021\main.c
+	"header.h"
+	"funciones.h"
+	"utils.h"
+	"tdaLista.h"
+
+1657577074 c:\users\ignac\desktop\finalrenatadiciembre2021\tdalista.h
+	"header.h"
+
+1657577538 source:c:\users\ignac\desktop\finalrenatadiciembre2021\tdalista.c
+	"tdaLista.h"
+
+1657584506 c:\users\ignac\desktop\finalrenatadiciembre2021\funciones.h
+	"header.h"
+	"tdaLista.h"
+	"utils.h"
+
+1657584504 c:\users\ignac\desktop\finalrenatadiciembre2021\utils.h
+	"header.h"
+	"tdaLista.h"
+
+1657585154 source:c:\users\ignac\desktop\finalrenatadiciembre2021\utils.c
+	"utils.h"
+
+1657584790 source:c:\users\ignac\desktop\finales progra\final diciembre\finalrenatadiciembre2021\funciones.c
+	"funciones.h"
+
+1657584506 c:\users\ignac\desktop\finales progra\final diciembre\finalrenatadiciembre2021\funciones.h
+	"header.h"
+	"tdaLista.h"
+	"utils.h"
+
+1657576990 c:\users\ignac\desktop\finales progra\final diciembre\finalrenatadiciembre2021\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1657577074 c:\users\ignac\desktop\finales progra\final diciembre\finalrenatadiciembre2021\tdalista.h
+	"header.h"
+
+1657584504 c:\users\ignac\desktop\finales progra\final diciembre\finalrenatadiciembre2021\utils.h
+	"header.h"
+	"tdaLista.h"
+
+1657584476 source:c:\users\ignac\desktop\finales progra\final diciembre\finalrenatadiciembre2021\main.c
+	"header.h"
+	"funciones.h"
+	"utils.h"
+	"tdaLista.h"
+
+1657577538 source:c:\users\ignac\desktop\finales progra\final diciembre\finalrenatadiciembre2021\tdalista.c
+	"tdaLista.h"
+
+1657585154 source:c:\users\ignac\desktop\finales progra\final diciembre\finalrenatadiciembre2021\utils.c
+	"utils.h"
+

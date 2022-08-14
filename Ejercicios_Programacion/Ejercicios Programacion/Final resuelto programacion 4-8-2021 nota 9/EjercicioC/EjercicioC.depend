@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1628119252 source:c:\users\marti\desktop\final\ejercicioc\listasimple.c
+	"listaSimple.h"
+
+1628119252 c:\users\marti\desktop\final\ejercicioc\listasimple.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1628122750 source:c:\users\marti\desktop\final\ejercicioc\main.c
+	"main.h"
+
+1628119253 c:\users\marti\desktop\final\ejercicioc\main.h
+	<stdio.h>
+	<stdlib.h>
+	"tipos.h"
+	"funciones.h"
+	<time.h>
+
+1628119250 c:\users\marti\desktop\final\ejercicioc\tipos.h
+
+1628119251 c:\users\marti\desktop\final\ejercicioc\funciones.h
+	"tipos.h"
+	"listaSimple.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1628124136 source:c:\users\marti\desktop\final\ejercicioc\funciones.c
+	"funciones.h"
+
+1646346023 source:c:\users\rocio\downloads\final resuelto programacion 4-8-2021 nota 9\ejercicioc\funciones.c
+	"funciones.h"
+
+1646346035 c:\users\rocio\downloads\final resuelto programacion 4-8-2021 nota 9\ejercicioc\funciones.h
+	"tipos.h"
+	"listaSimple.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1646346140 c:\users\rocio\downloads\final resuelto programacion 4-8-2021 nota 9\ejercicioc\tipos.h
+
+1646346057 c:\users\rocio\downloads\final resuelto programacion 4-8-2021 nota 9\ejercicioc\listasimple.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1646346040 source:c:\users\rocio\downloads\final resuelto programacion 4-8-2021 nota 9\ejercicioc\listasimple.c
+	"listaSimple.h"
+
+1646346063 source:c:\users\rocio\downloads\final resuelto programacion 4-8-2021 nota 9\ejercicioc\main.c
+	"main.h"
+
+1658518779 c:\users\rocio\downloads\final resuelto programacion 4-8-2021 nota 9\ejercicioc\main.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"tipos.h"
+	"funciones.h"
+	<time.h>
+

@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1646343514 source:c:\users\rocio\desktop\final de diciembre c++\main.cpp
+	<iostream>
+	"Medicion.h"
+
+1646343514 c:\users\rocio\desktop\final de diciembre c++\medicion.h
+	<iostream>
+	<string>
+	"RestaInvalidaException.h"
+
+1646343514 source:c:\users\rocio\desktop\final de diciembre c++\medicion.cpp
+	"Medicion.h"
+
+1646343514 c:\users\rocio\desktop\final de diciembre c++\restainvalidaexception.h
+	<exception>
+
+1646343514 source:c:\users\rocio\desktop\final de diciembre c++\restainvalidaexception.cpp
+	"RestaInvalidaException.h"
+
+1646343514 source:d:\2º año\2º cuatrimestre\programacion\ejercicios resueltos\final de diciembre c++\main.cpp
+	<iostream>
+	"Medicion.h"
+
+1646343514 d:\2º año\2º cuatrimestre\programacion\ejercicios resueltos\final de diciembre c++\medicion.h
+	<iostream>
+	<string>
+	"RestaInvalidaException.h"
+
+1658533944 d:\2º año\2º cuatrimestre\programacion\ejercicios resueltos\final de diciembre c++\restainvalidaexception.h
+	<exception>
+
+1646407314 source:d:\2º año\2º cuatrimestre\programacion\ejercicios resueltos\final de diciembre c++\medicion.cpp
+	"Medicion.h"
+
+1658533944 source:d:\2º año\2º cuatrimestre\programacion\ejercicios resueltos\final de diciembre c++\restainvalidaexception.cpp
+	"RestaInvalidaException.h"
+

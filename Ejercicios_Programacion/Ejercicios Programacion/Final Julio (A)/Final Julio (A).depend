@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1658598621 source:d:\2º año\2º cuatrimestre\programación\ejercicios resueltos\clases 2022\final\modelos\final julio (a)\arbolimpldinamica.c
+	"ArbolImplDinamica.h"
+
+1658598631 d:\2º año\2º cuatrimestre\programación\ejercicios resueltos\clases 2022\final\modelos\final julio (a)\arbolimpldinamica.h
+	<stdlib.h>
+	<string.h>
+
+1658600400 source:c:\users\rocio\desktop\final_julio_(a)\arbolimpldinamica.c
+	"ArbolImplDinamica.h"
+
+1658599691 c:\users\rocio\desktop\final_julio_(a)\arbolimpldinamica.h
+	<stdlib.h>
+	<string.h>
+
+1658600441 source:c:\users\rocio\desktop\final_julio_(a)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArbolImplDinamica.h"
+

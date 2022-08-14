@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1628121681 source:c:\users\marti\desktop\final\ejerciciocpp\main.cpp
+	<iostream>
+	"ClaseBase.h"
+	"ClaseA.h"
+	"ClaseB.h"
+
+1628123375 c:\users\marti\desktop\final\ejerciciocpp\include\clasebase.h
+
+1628123341 c:\users\marti\desktop\final\ejerciciocpp\include\clasea.h
+	"ClaseBase.h"
+
+1628123346 c:\users\marti\desktop\final\ejerciciocpp\include\claseb.h
+	"ClaseBase.h"
+
+1646346152 source:c:\users\rocio\downloads\final resuelto programacion 4-8-2021 nota 9\ejerciciocpp\main.cpp
+	<iostream>
+	"ClaseBase.h"
+	"ClaseA.h"
+	"ClaseB.h"
+
+1646346175 c:\users\rocio\downloads\final resuelto programacion 4-8-2021 nota 9\ejerciciocpp\include\clasebase.h
+
+1646346165 c:\users\rocio\downloads\final resuelto programacion 4-8-2021 nota 9\ejerciciocpp\include\clasea.h
+	"ClaseBase.h"
+
+1646346169 c:\users\rocio\downloads\final resuelto programacion 4-8-2021 nota 9\ejerciciocpp\include\claseb.h
+	"ClaseBase.h"
+

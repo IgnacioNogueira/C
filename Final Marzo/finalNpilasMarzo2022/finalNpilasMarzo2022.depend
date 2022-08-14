@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1658698675 source:c:\users\ignac\desktop\finalnpilasmarzo2022\main.c
+	"main.h"
+	"funciones.h"
+
+1658691977 c:\users\ignac\desktop\finalnpilasmarzo2022\main.h
+	<stdio.h>
+	<stdlib.h>
+
+1658695537 source:c:\users\ignac\desktop\finalnpilasmarzo2022\piladinamica.c
+	"pilaDinamica.h"
+
+1658699012 c:\users\ignac\desktop\finalnpilasmarzo2022\piladinamica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1658698652 c:\users\ignac\desktop\finalnpilasmarzo2022\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"pilaDinamica.h"
+
+1658701602 source:c:\users\ignac\desktop\finalnpilasmarzo2022\funciones.c
+	"funciones.h"
+

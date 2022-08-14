@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1658603199 source:d:\2º año\2º cuatrimestre\programación\ejercicios resueltos\clases 2022\final\modelos\final julio (b)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Tipos.h"
+	"Comun.h"
+	"Funciones.h"
+
+1658603263 source:d:\2º año\2º cuatrimestre\programación\ejercicios resueltos\clases 2022\final\modelos\final julio (b)\funciones.c
+	"Funciones.h"
+
+1658603161 d:\2º año\2º cuatrimestre\programación\ejercicios resueltos\clases 2022\final\modelos\final julio (b)\funciones.h
+	<stdio.h>
+	"Tipos.h"
+	"Comun.h"
+	"ListaSimplementeEnlazada.h"
+
+1658601284 d:\2º año\2º cuatrimestre\programación\ejercicios resueltos\clases 2022\final\modelos\final julio (b)\tipos.h
+
+1658603147 d:\2º año\2º cuatrimestre\programación\ejercicios resueltos\clases 2022\final\modelos\final julio (b)\comun.h
+	<stdlib.h>
+
+1658602077 d:\2º año\2º cuatrimestre\programación\ejercicios resueltos\clases 2022\final\modelos\final julio (b)\listasimplementeenlazada.h
+	<stdlib.h>
+	<string.h>
+	"Comun.h"
+
+1658604582 source:d:\2º año\2º cuatrimestre\programación\ejercicios resueltos\clases 2022\final\modelos\final julio (b)\listasimplementeenlazada.c
+	"ListaSimplementeEnlazada.h"
+

@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1646486496 source:c:\users\laboratorios\desktop\ejercicio c++\llamada.cpp
+	"Llamada.h"
+
+1646486442 c:\users\laboratorios\desktop\ejercicio c++\llamada.h
+	<iostream>
+	<string>
+	"OperacionInvalidaException.h"
+
+1646485519 c:\users\laboratorios\desktop\ejercicio c++\operacioninvalidaexception.h
+	<exception>
+
+1646486473 source:c:\users\laboratorios\desktop\ejercicio c++\main.cpp
+	<iostream>
+	"Llamada.h"
+
+1646485519 source:c:\users\laboratorios\desktop\ejercicio c++\operacioninvalidaexception.cpp
+	"OperacionInvalidaException.h"
+
+1646486518 source:d:\2º año\2º cuatrimestre\programacion\final\ejercicio c++\llamada.cpp
+	"Llamada.h"
+
+1646486444 d:\2º año\2º cuatrimestre\programacion\final\ejercicio c++\llamada.h
+	<iostream>
+	<string>
+	"OperacionInvalidaException.h"
+
+1658533970 d:\2º año\2º cuatrimestre\programacion\final\ejercicio c++\operacioninvalidaexception.h
+	<exception>
+
+1658533969 source:d:\2º año\2º cuatrimestre\programacion\final\ejercicio c++\operacioninvalidaexception.cpp
+	"OperacionInvalidaException.h"
+
+1658450337 source:d:\2º año\2º cuatrimestre\programacion\final\ejercicio c++\main.cpp
+	<iostream>
+	"Llamada.h"
+
+1646486518 source:c:\users\ignac\desktop\finales progra\ejercicios_programacion\ejercicios programacion\final marzo c++\llamada.cpp
+	"Llamada.h"
+
+1658845067 c:\users\ignac\desktop\finales progra\ejercicios_programacion\ejercicios programacion\final marzo c++\llamada.h
+	<iostream>
+	<string>
+	"OperacionInvalidaException.h"
+
+1658533972 c:\users\ignac\desktop\finales progra\ejercicios_programacion\ejercicios programacion\final marzo c++\operacioninvalidaexception.h
+	<exception>
+
+1658450338 source:c:\users\ignac\desktop\finales progra\ejercicios_programacion\ejercicios programacion\final marzo c++\main.cpp
+	<iostream>
+	"Llamada.h"
+
+1658533970 source:c:\users\ignac\desktop\finales progra\ejercicios_programacion\ejercicios programacion\final marzo c++\operacioninvalidaexception.cpp
+	"OperacionInvalidaException.h"
+

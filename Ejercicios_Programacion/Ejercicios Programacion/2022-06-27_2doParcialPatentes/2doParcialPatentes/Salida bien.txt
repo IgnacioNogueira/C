@@ -1,0 +1,103 @@
+Archivo Facturas Automotor
+KSD628; 3; 22444888; Rodriguez, Pedro     ; 0760.78
+JFK456; 2; 33222111; Fernandez, Gaston    ; 0785.34
+FAA182; 5; 12345678; Garcia, Demetrio     ; 0547.43
+ASD789; 1; 11555888; Gutierrez, Adrian    ; 0995.95
+LLA777; 4; 40231683; De La Vega, Diego    ; 0975.20
+ABC123; 1; 11222333; Perez, Juan          ; 1050.10
+OTT888; 2; 44333222; De La Vega, Alejandro; 1531.45
+FGH234; 1; 34560999; Pedraza, Fernando    ; 0579.56
+ABC123; 2; 11222333; Perez, Juan          ; 1020.50
+KSD628; 4; 22444888; Rodriguez, Pedro     ; 0777.89
+JFK456; 3; 33222111; Fernandez, Gaston    ; 0750.11
+FAA182; 1; 12345678; Garcia, Demetrio     ; 0550.12
+LLA777; 5; 40231683; De La Vega, Diego    ; 0923.99
+OTT888; 3; 44333222; De La Vega, Alejandro; 1557.22
+ASD789; 2; 11555888; Gutierrez, Adrian    ; 1000.00
+FGH234; 2; 34560999; Pedraza, Fernando    ; 0599.99
+
+Archivo Parche
+ABC123; 1; 101.01
+KSD628; 3; 058.34
+KSD628; 5; 100.10
+FAA182; 5; 123.34
+LLA777; 4; 375.20
+OTT888; 2; 531.45
+LAR999; 1; 125.17
+ASD789; 1; 095.95
+BBB222; 2; 222.22
+FGH234; 1; 079.56
+KSD628; 4; 077.89
+JFK456; 3; 050.11
+CCC333; 3; 333.33
+FAA182; 1; 350.12
+LKT874; 3; 240.73
+LLA777; 5; 023.99
+ASD789; 2; 100.00
+AAA111; 1; 111.11
+FGH234; 2; 099.99
+
+Arbol Indice cargado
+                                                                [OTT888|3|13]
+                                                [OTT888|2|06]
+                                [LLA777|5|12]
+                                                [LLA777|4|04]
+                [LKT874|3|-1]
+                                                                [LAR999|1|-1]
+                                                [KSD628|5|-1]
+                                [KSD628|4|09]
+                                                [KSD628|3|00]
+[JFK456|3|10]
+                                                                [JFK456|2|01]
+                                                [FGH234|2|15]
+                                [FGH234|1|07]
+                                                [FAA182|5|02]
+                [FAA182|1|11]
+                                                                [ASD789|2|14]
+                                                [ASD789|1|03]
+                                [ABC123|2|08]
+                                                [ABC123|1|05]
+
+Arbol Indice despues de eliminar
+                                                                [OTT888|3|13]
+                                                [OTT888|2|06]
+                                [LLA777|5|12]
+                [LLA777|4|04]
+                                [KSD628|4|09]
+                                                [KSD628|3|00]
+[JFK456|3|10]
+                                                                [JFK456|2|01]
+                                                [FGH234|2|15]
+                                [FGH234|1|07]
+                                                [FAA182|5|02]
+                [FAA182|1|11]
+                                                                [ASD789|2|14]
+                                                [ASD789|1|03]
+                                [ABC123|2|08]
+                                                [ABC123|1|05]
+
+Archivo Facturas Automotor actualizado
+KSD628; 3; 22444888; Rodriguez, Pedro     ; 0819.12
+JFK456; 2; 33222111; Fernandez, Gaston    ; 0785.34
+FAA182; 5; 12345678; Garcia, Demetrio     ; 0670.77
+ASD789; 1; 11555888; Gutierrez, Adrian    ; 1091.90
+LLA777; 4; 40231683; De La Vega, Diego    ; 1350.40
+ABC123; 1; 11222333; Perez, Juan          ; 1151.11
+OTT888; 2; 44333222; De La Vega, Alejandro; 2062.90
+FGH234; 1; 34560999; Pedraza, Fernando    ; 0659.12
+ABC123; 2; 11222333; Perez, Juan          ; 1020.50
+KSD628; 4; 22444888; Rodriguez, Pedro     ; 0855.78
+JFK456; 3; 33222111; Fernandez, Gaston    ; 0800.22
+FAA182; 1; 12345678; Garcia, Demetrio     ; 0900.24
+LLA777; 5; 40231683; De La Vega, Diego    ; 0947.98
+OTT888; 3; 44333222; De La Vega, Alejandro; 1557.22
+ASD789; 2; 11555888; Gutierrez, Adrian    ; 1100.00
+FGH234; 2; 34560999; Pedraza, Fernando    ; 0699.98
+
+Facturas Inexistentes
+AAA111; 1; 111.11
+BBB222; 2; 222.22
+CCC333; 3; 333.33
+KSD628; 5; 100.10
+LAR999; 1; 125.17
+LKT874; 3; 240.73

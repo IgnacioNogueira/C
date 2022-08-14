@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1654519409 source:c:\users\laboratorios\desktop\fernandez rocio belen\2022-06-06_1erparcialecommerce\1erparcialecommerce\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../Solucion1erParcialEcommerce/Solucion1erParcialEcommerce.h"
+	"../TDALista/TDALista.h"
+
+1654517377 c:\users\laboratorios\desktop\fernandez rocio belen\2022-06-06_1erparcialecommerce\solucion1erparcialecommerce\solucion1erparcialecommerce.h
+	"../Comun/Comun.h"
+
+1653648806 c:\users\laboratorios\desktop\fernandez rocio belen\2022-06-06_1erparcialecommerce\comun\comun.h
+
+1653648806 c:\users\laboratorios\desktop\fernandez rocio belen\2022-06-06_1erparcialecommerce\tdalista\tdalista.h
+	"../Comun/Comun.h"
+	"../TDAListaImplDinamica/TDAListaImplDinamica.h"
+	"../TDAListaImplDinamicaDoble/TDAListaImplDinamicaDoble.h"
+
+1653648806 c:\users\laboratorios\desktop\fernandez rocio belen\2022-06-06_1erparcialecommerce\tdalistaimpldinamica\tdalistaimpldinamica.h
+	"../Nodo/Nodo.h"
+
+1653648806 c:\users\laboratorios\desktop\fernandez rocio belen\2022-06-06_1erparcialecommerce\nodo\nodo.h
+	<stddef.h>
+
+1654523090 source:c:\users\laboratorios\desktop\fernandez_rociobelen\2022-06-06_1erparcialecommerce\1erparcialecommerce\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../Solucion1erParcialEcommerce/Solucion1erParcialEcommerce.h"
+	"../TDALista/TDALista.h"
+
+1654521397 c:\users\laboratorios\desktop\fernandez_rociobelen\2022-06-06_1erparcialecommerce\solucion1erparcialecommerce\solucion1erparcialecommerce.h
+	"../Comun/Comun.h"
+
+1653648806 c:\users\laboratorios\desktop\fernandez_rociobelen\2022-06-06_1erparcialecommerce\comun\comun.h
+
+1653648806 c:\users\laboratorios\desktop\fernandez_rociobelen\2022-06-06_1erparcialecommerce\tdalista\tdalista.h
+	"../Comun/Comun.h"
+	"../TDAListaImplDinamica/TDAListaImplDinamica.h"
+	"../TDAListaImplDinamicaDoble/TDAListaImplDinamicaDoble.h"
+
+1653648806 c:\users\laboratorios\desktop\fernandez_rociobelen\2022-06-06_1erparcialecommerce\tdalistaimpldinamica\tdalistaimpldinamica.h
+	"../Nodo/Nodo.h"
+
+1653648806 c:\users\laboratorios\desktop\fernandez_rociobelen\2022-06-06_1erparcialecommerce\nodo\nodo.h
+	<stddef.h>
+
+1654523295 source:e:\programacion\parcial\fernandez_rociobelen\2022-06-06_1erparcialecommerce\1erparcialecommerce\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../Solucion1erParcialEcommerce/Solucion1erParcialEcommerce.h"
+	"../TDALista/TDALista.h"
+
+1654521397 e:\programacion\parcial\fernandez_rociobelen\2022-06-06_1erparcialecommerce\solucion1erparcialecommerce\solucion1erparcialecommerce.h
+	"../Comun/Comun.h"
+
+1653648806 e:\programacion\parcial\fernandez_rociobelen\2022-06-06_1erparcialecommerce\comun\comun.h
+
+1653648806 e:\programacion\parcial\fernandez_rociobelen\2022-06-06_1erparcialecommerce\tdalista\tdalista.h
+	"../Comun/Comun.h"
+	"../TDAListaImplDinamica/TDAListaImplDinamica.h"
+	"../TDAListaImplDinamicaDoble/TDAListaImplDinamicaDoble.h"
+
+1653648806 e:\programacion\parcial\fernandez_rociobelen\2022-06-06_1erparcialecommerce\tdalistaimpldinamica\tdalistaimpldinamica.h
+	"../Nodo/Nodo.h"
+
+1653648806 e:\programacion\parcial\fernandez_rociobelen\2022-06-06_1erparcialecommerce\nodo\nodo.h
+	<stddef.h>
+

@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1646341075 source:c:\users\rocio\desktop\final de diciembre\lista.c
+	"lista.h"
+
+1646339980 c:\users\rocio\desktop\final de diciembre\lista.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1646340884 source:c:\users\rocio\desktop\final de diciembre\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"utilitarias.h"
+
+1646338080 c:\users\rocio\desktop\final de diciembre\utilitarias.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"lista.h"
+
+1646341440 source:c:\users\rocio\desktop\final de diciembre\utilitarias.c
+	"utilitarias.h"
+

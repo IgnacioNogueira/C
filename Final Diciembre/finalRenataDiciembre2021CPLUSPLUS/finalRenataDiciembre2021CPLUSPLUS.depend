@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1657595827 source:c:\users\ignac\desktop\finalrenatadiciembre2021cplusplus\main.cpp
+	"Medicion.h"
+
+1657595838 c:\users\ignac\desktop\finalrenatadiciembre2021cplusplus\medicion.h
+	<iostream>
+	<string>
+	<cstring>
+	<exception>
+
+1657586372 c:\users\ignac\desktop\finalrenatadiciembre2021cplusplus\exceptionmedicion.h
+	<exception>
+
+1657594438 source:c:\users\ignac\desktop\finalrenatadiciembre2021cplusplus\medicion.cpp
+	"Medicion.h"
+
+1657585875 source:c:\users\ignac\desktop\finalrenatadiciembre2021cplusplus\exceptionmedicion.cpp
+	"ExceptionMedicion.h"
+
+1657915365 source:c:\users\ignac\desktop\finales progra\final diciembre\finalrenatadiciembre2021cplusplus\main.cpp
+	"Medicion.h"
+
+1657915722 c:\users\ignac\desktop\finales progra\final diciembre\finalrenatadiciembre2021cplusplus\medicion.h
+	<iostream>
+	<string>
+	<cstring>
+	<exception>
+
+1657915464 source:c:\users\ignac\desktop\finales progra\final diciembre\finalrenatadiciembre2021cplusplus\medicion.cpp
+	"Medicion.h"
+

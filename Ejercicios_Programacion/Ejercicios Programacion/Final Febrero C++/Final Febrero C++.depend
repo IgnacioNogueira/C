@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1646363609 source:c:\users\rocio\desktop\final febrero c++\main.cpp
+	<iostream>
+	"VectorEnteros.h"
+
+1646442526 c:\users\rocio\desktop\final febrero c++\vectorenteros.h
+	<iostream>
+
+1646363594 source:c:\users\rocio\desktop\final febrero c++\vectorenteros.cpp
+	"VectorEnteros.h"
+
+1646363609 source:d:\2º año\2º cuatrimestre\programacion\ejercicios resueltos\final febrero c++\main.cpp
+	<iostream>
+	"VectorEnteros.h"
+
+1646442526 d:\2º año\2º cuatrimestre\programacion\ejercicios resueltos\final febrero c++\vectorenteros.h
+	<iostream>
+
+1658447992 source:d:\2º año\2º cuatrimestre\programacion\ejercicios resueltos\final febrero c++\vectorenteros.cpp
+	"VectorEnteros.h"
+

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1658686984 source:c:\users\ignac\desktop\llamadafinalmarzo2022\main.cpp
+	"Llamada.h"
+	"exceptionLlamada.h"
+
+1658687047 c:\users\ignac\desktop\llamadafinalmarzo2022\llamada.h
+	<iostream>
+	<string>
+	"exceptionLlamada.h"
+
+1658686600 source:c:\users\ignac\desktop\llamadafinalmarzo2022\llamada.cpp
+	"Llamada.h"
+
+1658684244 source:c:\users\ignac\desktop\llamadafinalmarzo2022\exceptionllamada.cpp
+	"exceptionLlamada.h"
+
+1658684185 c:\users\ignac\desktop\llamadafinalmarzo2022\exceptionllamada.h
+	<exception>
+

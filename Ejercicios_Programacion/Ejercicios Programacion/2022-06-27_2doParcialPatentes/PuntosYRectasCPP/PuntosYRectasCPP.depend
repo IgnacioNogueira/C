@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1656342127 source:c:\users\laboratorios\desktop\fernandez_rocio\puntosyrectascpp\main.cpp
+	<iostream>
+	<math.h>
+
+1656341394 c:\users\laboratorios\desktop\fernandez_rocio\puntosyrectascpp\recta.h
+	"Punto.h"
+	<math.h>
+
+1656341365 c:\users\laboratorios\desktop\fernandez_rocio\puntosyrectascpp\punto.h
+	<iostream>
+
+1656340318 source:c:\users\laboratorios\desktop\fernandez_rocio\puntosyrectascpp\punto.cpp
+	"Punto.h"
+
+1656341450 source:c:\users\laboratorios\desktop\fernandez_rocio\puntosyrectascpp\recta.cpp
+	"Recta.h"
+
